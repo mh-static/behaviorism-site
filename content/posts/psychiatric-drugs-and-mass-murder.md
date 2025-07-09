@@ -1,0 +1,64 @@
+---
+title: Psychiatric Drugs and Mass Murder
+date: '2015-06-29T05:30:34Z'
+author: PhilHickeyPhD
+categories:
+- A Behavioral Approach to Mental Disorders
+tags: []
+---
+
+On June 12, an interesting and important article was posted on pharmabuse.com.  The article is titled <em><a href="http://www.pharmabuse.com/blogs/98">Army Report: Fort Hood Mass Shooter Ivan Lopez On Psychotropic Cocktail Of Celexa, Wellbutrin, Ambien, Lunesta</a></em>.  Ivan Lopez-Lopez is the second Fort Hood shooter, who killed three people and then himself on April 2, 2014.
+
+Here are some quotes:
+<p style="padding-left: 30px;">"On January 23, 2015, the Army released its long anticipated report on the second fatal mass shootings at Fort Hood that occurred on April 2, 2014. In support of the report, the Army simultaneously released five appendices contained in nineteen other files pertaining to Specialist Ivan Lopez's deadly shooting rampage."</p>
+<p style="padding-left: 30px;">"In its findings, the Army concluded, 'There was no evidence that any medication, or combination of medications, caused suicidal and/or homicidal thoughts in SPC Lopez-Lopez.'  The Army continued: 'There was no evidence that SPC Lopez-Lopez’s polypharmacy positive status would have triggered a high-risk flagging even if it had been communicated between posts or sent to commands.  There was no evidence that successful information transfer of the polypharmacy status between posts would have prevented the events of 2 April 14'"</p>
+<p style="padding-left: 30px;">"In a very literal sense, there was no evidence contained in the report that any medication or combination of medications, known as polypharmacy, caused suicidal or homicidal ideation in Spc Lopez - because the Army made sure of it, seemingly redacting from its report every shred of evidence that could possibly point to such a conclusion.  Or did they?"</p>
+The authors then describe a process in which they (or somebody else) went through the heavily redacted reports looking for clues as to what psychiatric drugs the Ft. Hood shooter, Ivan Lopez-Lopes, had been taking at the time of the killings.
+
+The process that the code breaker(s) used is straightforward, and relies essentially on the fact that the military authorities left enough clues in the report, so that a person willing to spend the time could fill in the blanks.  This is all described in close detail in the article.
+
+The authors conclude that at the time of the killings, Ivan Lopez-Lopez had been prescribed a "cocktail" of Celexa, Wellbutrin, Ambien, and Lunesta.
+
+Some more quotes:
+<p style="padding-left: 30px;">"In addition to inadvertently divulging, despite significant black ink expended, how many and which psychotropic medications Spc Lopez was prescribed and taking (remember the toxicology results revealed the normal/expected, ie. not abnormal, presence of medications plural), the Army perhaps again unwittingly disclosed in Appendix 5 just how extensive Spc Lopez's mental health treatment actually was, and the myriad of Army mental health providers who examined and/or treated Spc Lopez."</p>
+<p style="padding-left: 30px;">"Over a ten month period from June 14, 2013 to March 10, 2014, Spc Lopez appears to have met with a half dozen mental health providers on at least ten occasions, possibly meeting with two providers on the same date on two of those occasions.  Records show Spc Lopez met with a Social Worker therapist, four psychiatrists, and a nurse practitioner who refilled prescriptions."</p>
+<p style="padding-left: 30px;">"Army records demonstrate that Spc Lopez sought mental health care of his own accord, followed up with mental health treatment as prescribed (both on a scheduled and walk-in basis), and requested refills of prescribed medications.</p>
+<p style="padding-left: 30px;">These facts run counter to the narrative oft posited by Pharma-funded politicians whereby mass shooting tragedies are preventable - if only the shooters had access to mental health care, cooperated with their treatment, and complied with prescribed medications."</p>
+<p style="padding-left: 30px;">"The Army's findings, based on thousands of pages of evidence, are a stinging indictment of the failings of medicalized psychiatry in America, which could alternatively be referred to as chemical mood/behavior management.  The Army's conclusion that Spc Ivan Lopez received the best possible mental health care was emphatic: 'After an independent review of the medical and behavioral health care and treatment provided to SPC Lopez-Lopez, no deviation from standard care occurred in any component of the medical treatment continuum.'"</p>
+And from this last quote, the author draws the logical conclusion:
+<p style="padding-left: 30px;">"If the determination of independent psychiatrists that no deviation from the standard of care occurred in the case of Spc Lopez is correct, then it must also follow logically that psychiatry's standard of care cannot prevent mass shooting tragedies."</p>
+And:
+<p style="padding-left: 30px;">"The fact that American psychiatry - with its almost singular reliance on chemical mood/behavior management - cannot prevent mass shootings has not prevented Rep. Tim Murphy (R-PA) and other Pharma-funded politicians from attempting to force American taxpayers to part with billions of dollars under just such a false promise.  With the pharmaceutical lobby now the largest by far in the U.S., spending over $230M last year to pitch their agenda to Congress, some have begun to question whether we're now living in the United States of Pharma."</p>
+The author then presents several quotes from the report from people who knew Ivan Lopez-Lopez.  All these individuals describe him as a calm, quiet, friendly person.  Some of the adjectives used were:  calm; quiet; non-confrontational; not violent; humble; kind; honest; good father; loving; happy.
+<p style="text-align: center;"><strong>. . . . . . . . . . . . . . . .</strong></p>
+<p style="padding-left: 30px;">"So what could compel an even-tempered individual to go on a deadly shooting rampage?</p>
+<p style="padding-left: 30px;">A peek inside Ivan Lopez's medicine cabinet tells the story..."</p>
+The authors then provide a description of the four psychiatric drugs that Ivan Lopez had been prescribed, including some of the adverse effects.
+<p style="padding-left: 30px;">"The label for Wellbutrin contains a black-box warning of increased risk of suicidal thinking and suicidal behavior, lists agitation and hostility as being among the most common adverse reactions, and warns families and caregivers to immediately report emerging agitation or irritability to healthcare providers.</p>
+<p style="padding-left: 30px;">Bupropion hydrochloride [Wellbutrin], when prescribed for smoking cessation under the lesser-known brand name Zyban, also carries an FDA-mandated warning of homicidal ideation.</p>
+<p style="padding-left: 30px;">It was reported that former Assistant District Attorney Myron May was also prescribed a cocktail of psychotropic drugs including the antidepressant Wellbutrin prior to his mass shooting rampage on the campus of Florida State University on November 20, 2014.</p>
+<p style="padding-left: 30px;">Andrea Yates was also on a cocktail of psychotropic drugs including the antidepressant Wellbutrin when she drowned her five children -John, Paul, Luke, Mary, and Noah - on June 20, 2001.</p>
+<p style="padding-left: 30px;">Homicide has been reported to the FDA as a side-effect of Wellbutrin and bupropion hydrochloride seventeen times."</p>
+<p style="padding-left: 30px;">"Likewise, the label for citalopram hydrobromide [an SSRI], better known by the brand name Celexa, which Spc Lopez was prescribed, carries a black-box warning of increased risk of suicidal thinking and suicidal behavior, agitation, aggressiveness, hostility and impulsivity.</p>
+<p style="padding-left: 30px;">Homicide has been reported to the FDA as a side-effect of Celexa and citalopram fifty-eight times.  There have also been forty-three reports to the FDA of homicide as a side-effect of its chemical cousin, escitalopram oxalate, better known as Lexapro."</p>
+<p style="padding-left: 30px;">"Spc Lopez was also prescribed zolpidem tartrate, better known as Ambien, to treat insomnia.  The Ambien label states that 'worsening of depression and suicidal thinking may occur.'  According to the Ambien label, other reported side-effects include agitation, hallucination, abnormal thinking, and aggressiveness.</p>
+<p style="padding-left: 30px;">Homicide has been reported to the FDA as a side-effect of Ambien and zolpidem tartrate over one hundred times."</p>
+<p style="padding-left: 30px;">"In addition to Ambien, Spc Lopez was also prescribed the sleep-aid eszopiclone, better known as Lunesta.  Like Ambien, the Lunesta label warns that 'worsening of depression and suicidal thinking may occur.'  The Lunesta label also contains the following chilling warning: 'A variety of abnormal thinking and behavior changes have been reported to occur in association with the use of sedative/hypnotics.  Some of these changes may be characterized by decreased inhibition (e.g., aggressiveness and extroversion that seem out of character)... Other reported behavioral changes have included bizarre behavior, agitation, hallucinations, and depersonalization.'</p>
+<p style="padding-left: 30px;">Homicide has been reported to the FDA as a side-effect of Lunesta and zopiclone five times."</p>
+So, there it is.  There is a good deal more detail in the Pharmabuse article than I've quoted here, and I encourage readers to take a look.
+
+For me, there are two compelling questions:
+<ol>
+	<li>Why did the army try to conceal what psychiatric drugs Ivan Lopez-Lopez had been prescribed? I am reminded of Connecticut Assistant Attorney General, Patrick B. Kwanashie, who on <a href="http://ct-n.com/ctnplayer.asp?odID=9336">August 22. 2013</a>, refused to divulge what psychiatric drugs Adam Lanza had been taking prior to the Newtown school murders on the grounds that it might  "…cause a lot of people to stop taking their medications."</li>
+</ol>
+But if the drugs are implicated in these mass killings, as I believe they are, doesn't the public have a right to know?
+<ol start="2">
+	<li>How much longer can psychiatry-pharma keep the wraps on this matter? The fact is that in a relatively small number of people, these drugs induce strong homicidal/suicidal feelings, and in some cases, the individuals act on these feelings.  The numbers involved are small, but - and this is the critical point - nobody has figured a way to predict which individuals will be affected.  So what psychiatry is doing is a bit like playing Russian roulette – except that the gun is pointed at someone else's head!</li>
+</ol>
+<p style="text-align: center;"><strong>. . . . . . . . . . . . . . . .</strong><strong> </strong></p>
+It's now fifteen years since Joseph Glenmullen, MD, wrote <em>Prozac Backlash</em> (Simon and Schuster, 2000).  The book is about these kinds of drug-induced incidents.  Here are two quotes:
+<p style="padding-left: 30px;">"In every instance, the stories are remarkably similar:  a dramatic noticeable change occurred in an individual soon after starting the drug.  Phrases like 'severely anxious and agitated,' 'felt like jumping out of her skin,' and 'couldn't sleep, pacing all night' were recurring themes.  The suicide attempts and violence toward others were described as 'shocking,' 'completely out of character.'" (p 138)</p>
+<p style="padding-left: 30px;">"But the key elements in these stories appeared to be the 'dramatic change' observed in these people after starting Prozac, how 'out of character' their behavior was on the drug, and the often extraordinary degree of violence not only toward themselves, but toward others." (p 138)</p>
+Since then, we've had multiple incidents of mass murders by people under the influence of SSRI's or other psychiatric drugs.  How many more incidents will it take before the media start broadcasting this story, and politicians begin to take action?  How many editors are killing these stories for fear of losing a pharma advertizing account?  <strong>How much silence can pharma money buy?</strong>
+<p style="text-align: center;"><strong>. . . . . . . . . . . . . . . .</strong><strong> </strong></p>
+And remember – in December 2012, a <a href="https://petitions.whitehouse.gov/petition/launch-federal-investigation-relationship-between-school-shootings-and-psychiatric-drugs">petition</a> to investigate the link between psychiatric drugs and instances of mass murder was placed on the White House petition website.  The petition was closed prematurely, without explanation, even though it was well on the way to obtaining the necessary number of signatures.

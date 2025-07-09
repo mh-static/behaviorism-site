@@ -1,0 +1,45 @@
+---
+title: Depression vs. Normal Unhappiness
+date: '2014-05-01T05:58:44Z'
+author: PhilHickeyPhD
+categories:
+- A Behavioral Approach to Mental Disorders
+- Psychiatric "spin"
+- antidepressants
+- depression
+tags: []
+---
+
+Alex Langford is a British trainee psychiatrist.  He blogs at The Psychiatric SHO, and on April 21, he posted an article titled <a href="http://psychiatrysho.wordpress.com/2014/04/21/antidepressants-are-not-happy-pills/"><em>Antidepressants are not 'happy pills.'</em></a>  Thanks to <a href="http://jeandavisonwriter.wordpress.com/2014/04/26/more-support-and-understanding-needed-for-people-wanting-to-try-a-no-meds-approach/">Jean Davison</a> for the link.
+
+The article is an impassioned attack on psychiatry's critics.  Here are some quotes, with my responses:
+<p style="padding-left: 30px;">"I am sick and tired of the way the press portrays depression as unhappiness and antidepressants as ‘happy pills’."</p>
+This is interesting, though my general impression is that the mainstream media lean a good deal more towards psychiatry than towards our side of the debate.  In addition, the words "depression" and unhappiness are pretty much synonymous.  So it's difficult to see why that, or the characterization of antidepressants as "happy pills," should be so upsetting to Dr. Langford.  We all, of course, have our linguistic likes and dislikes.  I personally don't care much for the growing trend to pronounce the indefinite article as "ay," or for psychiatry's insistence on calling neuroleptic drugs "anti-psychotics."  But what can you do?  I just Googled the phrase "antidepressants are happy pills" and got 204,000 hits!  So the notion has some traction and is probably here to stay.  One can't legislate for the way people use words.  Or perhaps psychiatrists imagine that they can.
+<p style="padding-left: 30px;">"For problems in other areas of health we’d only trust the experts to comment, but when it comes to mental health it seems like anyone can cast judgement."</p>
+Ah.  Now it becomes clear.  We psychiatrists know what we're doing, and how dare these ignorant upstarts "cast judgement" on our pronouncements!
+
+Note also the implication that psychiatry is a medical specialty.  The fact is that people generally display more respect towards real doctors than they do towards psychiatrists, because <em>real doctors deal with real illnesses</em>.  Psychiatrists, by contrast, <em>invent</em> the "illnesses" that they treat, and then, with the help of their pharmaceutical allies, sell these illnesses and their "treatments," with all the sophistication of door-to-door brush salesmen.
+<p style="padding-left: 30px;">"Every author seems to think they’ve discovered something amazing, when all they’re actually doing is repeatedly insulting a huge group of people with their ignorance."</p>
+Wouldn't it be better to actually offer some counter-arguments, instead of this petty and undignified vituperation?
+<p style="padding-left: 30px;">"Depression is not normal unhappiness, it is not something everyone goes through at some point. Only someone who has not been depressed would say that."</p>
+This is a constant theme in psychiatry – that depression, the "illness," is fundamentally different from ordinary, everyday depression.  But psychiatry has never offered any evidence to support this notion.  The much more reasonable position is that depression is depression is depression!  It admits of degrees, of course, but there's not the slightest evidence that severe depression is a different kind of entity from moderate or mild depression.  In science, the burden of proof lies with the party making the extreme claim.  But psychiatry has never produced any proof; just repeated assertions.
+<p style="padding-left: 30px;">"I agree, the causes and biological markers of depression are still murky to us. We don’t have a blood test or a scan for it and we realised that the ‘serotonin hypothesis’ was too simplistic decades ago. But this does not make depression any less of an illness, because the symptoms are still there. Just like migraines, we know very little, but we shouldn’t bizarrely stop calling it an illness just because of that."</p>
+The biological markers of depression are <em>not</em> "murky."  <em>They are non-existent</em>!  The <em>causes</em> of depression, in contrast, have been known from the beginning of history:  loss, disappointment, unfulfilling lifestyle, history of victimization, etc.  If by "we" Dr. Langford means the general body of psychiatry, then the question needs to be asked:  If psychiatry has known for decades that the chemical imbalance theory of depression was too simplistic, why was it only <a href="http://dorothyrowe.com.au/articles/magazines/item/150-a-single-step-the-magazine-for-supporters-of-depression-alliance-nov-2007"><em>seven</em> years ago (2007)</a> that the Royal College of Psychiatrists removed all references to chemical imbalances from the depression section of their website?  And given that psychiatrists had promoted the notion avidly up to that point, <strong>why have they never published a recantation, and an apology to the people who were misled and harmed? </strong>
+
+Also, it needs to be stressed that the chemical imbalance theory is not just "too simplistic," it is <em>blatantly false.  </em>It was developed as a tentative hypothesis by Everett and Toman in 1959, (Valenstein, <em>Blaming the Brain,</em> 1998, p 258) but never garnered sufficient evidence to warrant serious consideration.  The perpetuation of this discredited hypothesis as fact by psychiatry was not an honest mistake.  It was out and out, self-serving deception, and is likely to go down in history as one of the most destructive and far-reaching deceptions ever perpetrated by a professional body.
+
+And then we have the great leap of faith:  "but this does not make depression any less of an illness, because the symptoms are still there."  Actually, failure to identify an actual pathology <em>does</em> make a condition less of an illness.  In fact, <em>it confirms the notion that it is not an illness at all</em>.  For five decades now psychiatry has been telling us that depression is an illness "just like diabetes" and that the identification of the pathology is just around the proverbial corner.  Well, we've been round many corners, but the putative pathology has still not been identified.
+
+"…because the symptoms are still there."  This is pure chicanery.  Psychiatry, arbitrarily and self-servingly labels the natural indications of depression "symptoms."  And now Dr. Langford is arguing back from this medical term to support the notion that depression is an illness!
+
+And then, of course, we get the old migraine chestnut.  Yes, indeed, there are some real illnesses out there (including migraines) whose precise biological causes are unknown.  But in the great majority of real illnesses, the causes <em>are</em> known, and it is this knowledge of causes that has lifted general medicine from its folklorish roots to the respected and effective profession that it is today.  In psychiatric "illnesses," by contrast, <em>none</em> of the putative biological causes are known, despite decades of heavily funded and highly motivated research.
+
+I'm at a loss as to the significance of the word "bizarrely."  Apparently Dr. Langford is saying that the proposition:  "Depression is not an illness" is bizarre!  Within psychiatric circles, the word "bizarre" is generally associated with delusions.  Is Dr. Langford suggesting that those of us who challenge psychiatry's medicalization of depression are actually <em>delusional</em>?  Is there a hint of grandiosity here?
+<p style="padding-left: 30px;">"For the final time:  Depression is not normal unhappiness and antidepressants are not ‘happy pills’."</p>
+"For the final time…"  Yes, indeed, I think there is a touch of grandiosity here:  I - the great psychiatrist - have spoken, and that's an end to it.  However, it will take a little more than Dr. Langford's impassioned personal decree to lay this issue to rest.
+
+Psychiatry has built an elaborate and multi-faceted structure; but it is <strong>built on spurious premises and bogus research</strong>.  The spuriousness and the destructiveness are being exposed daily, and psychiatry has no response other than to keep rolling out the same tired, unproven assertions.  Dr. Langford may be just a <em>trainee</em> psychiatrist, but he has certainly mastered the intricacies of psychiatric "logic," in which falsehoods become truth by virtue of vigorous and widely promoted repetition.
+
+<strong>Psychiatry is intellectually and morally bankrupt</strong>.  It's finished!  The petulant protests of Dr. Langford are simply further confirmation that when all is said and done, psychiatry has no answer to its critics.
+
+&nbsp;

@@ -1,0 +1,54 @@
+---
+title: 'Mental Illness:  The History of a Mistake'
+date: '2010-11-17T11:51:09Z'
+author: PhilHickeyPhD
+categories:
+- A Behavioral Approach to Mental Disorders
+- IF THEY'RE NOT ILLNESSES WHAT ARE THEY?
+- mind
+tags: []
+---
+
+The human brain is a pattern-seeking machine.  Because of his brain, man strives to understand the world around him and uses this understanding to improve his lot.  The brain looks for patterns and explanations.  Our ancestors, for instance, discovered that certain rocks, through processing in certain ways, could be shaped to make sharp tools which they used to great advantage.  Later it was discovered that other rocks when heated in certain ways produced iron. And so on.
+
+The brain’s pattern-seeking activity is not confined to great discoveries.  People use their brains every day to navigate through their environment and to find the procedures and practices that work to their best advantage.  Commuters learn which routes have the fewest delays.  Shoppers learn where they can find the best bargains.  Politicians learn what to say to increase their chances of getting elected.  Gardeners learn when is the best time to plant.  And so on.  In all aspects of daily life – great and small – the brain is storing and analyzing data, identifying patterns and explanations, seeking endlessly to optimize results.
+
+It is likely that our ancestors of a few thousand years ago were pretty much as bright as we are in terms of raw intellectual ability.  But their store of valid knowledge was a great deal less.  The ancients lacked our knowledge of electricity, atoms, sub-atomic particles, germs, cells, neurons, periodic table, gravity, galaxies, etc., etc.. They had no understanding of why people got sick, why crops failed, why the moon and sun stayed up in the sky, or why some substances burned and others did not.  They didn’t even understand the true nature of fire – knowledge that is well within the scope of any high school student of today.  But this lack of knowledge didn’t prevent their brains from working on these various questions. The drive to make sense of their environment was as strong in them as it is in us today.  So they <em>invented</em> explanations – explanations that today seem primitive and naïve, but that made sense to them and helped them organize and systematize their experiences.  So they said that the moon and sun manage to stay up in the sky because they are gods (or goddesses), and gods can stay up in the sky.  Readers of this blog will readily recognize the fallacy in this reasoning.
+<ul>
+	<li>Why does the sun stay up in the sky?</li>
+	<li>Because it is a god.</li>
+	<li>How do you know it’s a god”?</li>
+	<li>Because it stays up in the sky.</li>
+</ul>
+And, of course, this kind of simplistic logic can be found in psychiatric circles to this day.
+
+But to get back to the main point:  people in virtually every ancient culture invented explanations for phenomena that they didn’t understand.  They then ignored data that contradicted their explanations and highlighted data that supported them.
+
+One of their more significant errors of this kind was, of course, the anthropomorphic god.
+<ul>
+	<li>Thunderstorms:  god is angry.</li>
+	<li>Fine weather:  god is happy.</li>
+	<li>Famine:  god is punishing</li>
+	<li>Etc..</li>
+</ul>
+But where the ancient civilizations really erred is in the nature and workings of life.  Today we know that all living organisms consist of cells, and these cells remain alive and multiply through complex microscopic processes involving nutrition, mitosis, etc.. We also know that death occurs when the cells’ DNA – through aging – is no longer able to split reliably and hence no longer able to replenish depleted material.
+
+But the ancients knew nothing of this.  So to explain the phenomenon of life, they invented the <em>soul</em> or <em>mind</em>.  This explained a great deal.  A dead body was one that the soul had left.  In <em>dreams</em> the soul left the body temporarily and travelled to distant places, faint memories of which remained after the soul had returned and the body reawakened.  If you dream about your dead father, it’s because the travelling soul has visited the spirit world and seen him.
+
+This is noteworthy in that we today in the computer age are very familiar with the notion of stored data and even stored images.  But the idea that all of our memories were somehow stored in our brains was foreign and incredible to the ancients.  The storing of data of this sort, which we call memory, was completely baffling to them.  And they “explained” it by the simple expedient of declaring it to be a spiritual activity and therefore, of course, the province of the soul or mind.
+
+Historians of philosophy call this “faculty psychology.”  It goes like this.  Different parts (faculties) of the organism have specialized functions.  The function emanates from the faculty.  So people can <em>think</em> because they have a faculty called <em>mind</em>.  People can <em>feel</em> because they have hearts, etc.. Today it sounds simplistic and naïve, but back then people found it helpful.   Activities such as thinking, remembering, planning, hoping, believing, etc., were most baffling to our ancestors, and they explained these activities by asserting that the faculty from which they emanated (the mind) was a kind of nebulous, ephemeral or “spiritual" entity, which in the hands of many religious leaders became equated with the “soul.”  So all was explained.  The mind (or soul or anima) was inside the otherwise inanimate, insensitive body.  Experience was channeled to the mind through various body parts (touch, sight, etc..), and the mind organized all this data and did the thinking, deciding, etc.. Today, of course, we recognize this as spurious, but for centuries it was central to all Western thinking.
+
+In reality, the concept of mind was an error – an error prompted by an ignorance of the anatomy and physiology of the brain.  This ignorance was prolonged by an establishment, steeped in dogmatism and certainty, and resistant to any form of genuine scientific enquiry.
+
+Today we realize that “mind” is essentially a metaphor for “self.”  When we say: “I changed my mind,” what we mean is:  “I, myself, reversed my earlier decision.”  And so on.  But in former times people thought of “the mind” as a real “faculty” residing somewhere (?) within the body.  And this kind of spurious psychology held sway throughout the Western world for centuries and is indeed current in some circles to this day.
+
+The notion of madness or craziness has also been around for centuries and was conceptualized largely as an irremediable defect of “the mind.”  Crazy people were cared for by their families and communities and sometimes by religious houses.  Then came the industrial revolution.  People were no longer needed to work the land, so they flocked to the cities, where they found unmitigated poverty and squalor.  Individuals who weren’t productive were often abandoned. This included the “crazy” people, who begged in the streets and ended up in jails.
+
+From this context a number of reformers, driven by humanitarian motives, started a movement to have these individuals housed in specialized institutions.  The buildings would be clean and properly run, and to lend respectability to these places, they would be placed under the jurisdiction of a physician.  From there it was a short leap to the notion that these places were <em>hospitals</em> (which they weren’t) and that the residents were <em>sick</em> (which they weren’t).  And so was born the notion of <em>mental illness. </em> An illness of a non-existent faculty!
+
+The sickness idea was deemed progressive.  Prior to that, the current notion was that these individuals’ “minds” were defective in some way and this defect was regarded more as a morality issue than anything else.  Great shame was attached to the person’s family. Many (perhaps most) of the individuals considered crazy were what today we would call retarded or intellectually handicapped  – but this distinction was not clearly grasped even 200 years ago.  So locking these people away in enormous buildings managed by medical superintendents was considered charitable.  (It also got them off the streets, which was considered desirable).
+
+The more recent history is well-known.  From being a relatively small number of asylum superintendents, American psychiatry has burgeoned to the 45,500 strong that it is today. Mental illness (the spurious disease of the spurious faculty) has been creatively expanded by an increasingly rapacious APA to the point where it can embrace virtually anyone.
+
+So we have institutionalized this error and turned it into a vast drug-pushing enterprise in which human welfare and human dignity are routinely sacrificed to the all-consuming maw of pharmaceutical psychiatry.  There are no minds.  And there are no mental illnesses.  There are <em>people</em> and we people live in a complex world.  And we have problems – sometimes little, sometimes large. And sometimes we lose our way and our thinking becomes distorted.  But conceptualizing these problems of human existence as illnesses to be “treated” by self-styled experts has been a colossal historical error – an error fuelled and maintained by career-building and corporate greed.  The most pressing need in this area today is the de-medicalization of these problems and the provision of concrete help, guidance, and support to the individuals concerned.

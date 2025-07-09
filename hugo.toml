@@ -1,0 +1,40 @@
+baseURL = "https://www.behaviorismandmentalhealth.com/"
+relativeURLs = true
+canonifyURLs = false
+languageCode = 'en-us'
+title = 'Behaviorism and Mental Health'
+theme = 'PaperMod'
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+
+[params.homeInfoParams]
+Title = "Recent Posts"
+Content = ""  # Leave blank here since you're using _index.md
+
+[params]
+homeInfoMode = false
+description = "Alternative perspective on psychiatry's so-called mental disorders | PHILIP HICKEY, PH.D."
+
+[params.assets]
+favicon = "favicon.ico"
+
+[menu]
+  [[menu.main]]
+    identifier = 'categories'
+    name = 'Categories'
+    url = '/categories/'
+    weight = 1
+
+  # Remove or comment this section to hide "Tags" from the nav:
+  # [[menu.main]]
+  #   identifier = 'tags'
+  #   name = 'Tags'
+  #   url = '/tags/'
+  #   weight = 2
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

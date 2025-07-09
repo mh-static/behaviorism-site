@@ -1,0 +1,62 @@
+---
+title: A Macabre Celebration:  80 Years of Convulsive 'Therapy'
+date: '2014-10-09T05:30:03Z'
+author: PhilHickeyPhD
+categories:
+- A Behavioral Approach to Mental Disorders
+- ECT
+- schizophrenia
+- shock "treatment"
+tags: []
+---
+
+There's an interesting article in the June 2014 issue of the Journal of ECT.  It's written by Max Fink, MD, and is titled <em><a href="http://journals.lww.com/ectjournal/citation/2014/06000/celebrating_80_years_of_inducing_brain_seizures_as.3.aspx">Celebrating 80 Years of Inducing Brain Seizures as Psychiatric Treatment.</a>  </em>Dr. Fink is a psychiatrist and neurologist, and professor emeritus of psychiatry and neurology at the State University of New York, Stony Brook.
+
+The article is short (approximately 400 words), and is essentially a tribute to Ladislas Meduna for his discovery  "…that induced seizures alleviated severe psychiatric disorders…", which Dr. Fink describes as  "…a remarkable medical advance…"
+
+Here are some quotes from the article, interspersed with my comments:
+<p style="padding-left: 30px;">"When the Hungarian neuropathologist Ladislas Meduna found increased gliosis in the brains of epileptic patients and decreases in those with schizophrenia, he saw the illnesses as antagonistic and thought that inducing epileptic seizures might relieve psychosis."</p>
+Glial cells are non-neuron brain cells.  In other words, they are not <em>nerve</em> cells.  Rather, they provide structure and support for the nerve cells.  <em>Gliosis</em> refers to a <em>condition</em> of the glial cells that occurs <em>in response to damage</em>.  The condition usually entails an increase in the number and size of the glial cells, and in extreme cases produces a scar.  Gliosis is associated with epilepsy, but it is unclear which is the cause and which is the effect.  What is clear, however, is that gliosis <em>always</em> has the potential to produce serious adverse effects.
+
+In this context, there is an almost childlike naïveté to Dr. Meduna's line of reasoning.  Essentially he has two groups of people:  those with epilepsy and those who have been "diagnosed with schizophrenia."  On post-mortem examination, he finds relatively more scar tissue in the brains of the former group, and relatively less in the brains of the latter group.  He also had noticed that the incidence of epilepsy was low in people "diagnosed with schizophrenia."  So, apparently, he reasons: the induction of grand mal seizures in the "schizophrenics" will have a therapeutic effect.  (Incidentally, given the low reliability of the label "schizophrenia," the statement that the incidence of epilepsy was low in this group is fraught with problems.  But that's another issue.)
+
+The fact that epilepsy is a devastating illness and that grand mal seizures are clearly not benign occurrences doesn’t seem to have entered into Dr. Meduna's reckoning.  He tried various chemicals to induce seizures in animals, and finally chose camphor.  Then, according to <a href="http://en.wikipedia.org/wiki/Ladislas_J._Meduna">Wikipedia</a>:
+<p style="padding-left: 30px;">"For a population with severe schizophrenia, he moved from Budapest to the psychiatric hospital at Lipotmező, outside Budapest. He began his dose-finding <em>experiments</em> on January 2, 1934." [Emphasis added]</p>
+Dr. Meduna later switched to pentylenetrazol (Metrazol), a stimulant drug which produces convulsions at high doses.
+
+Incidentally, here's a description of a Metrazol-induced seizure.  The quote is taken from <em><a href="http://fairfieldstatehospital.com/metrazol.html">Metrazol Therapy</a> </em>on the site fairfieldstatehospital.com.
+<p style="padding-left: 30px;">"Metrazol produced an explosive seizure about a minute after the injection. Often these convulsions would result in fractured bones and torn muscles. For the therapy to be effective it would be given two or three times a week and a typical course of therapy would be thirty to forty injections. As the patient regained consciousness they would be confused and cooperative with staff which was seen as a marked improvement. Other times in this twilight state the patient would act in a more regressive manner, frightened and scared by the treatment. After a patient received one treatment they were resistant to subsequent treatment, resisting and pleading for it not to be done again and would have to be forcibly treated."</p>
+And it is the inventor of this "treatment" that Dr. Fink wishes to honor!
+<p style="text-align: center;"><strong>. . . . . . . . . . . . . . . .</strong></p>
+<p style="padding-left: 30px;">"In 1938, seizures using household electric currents replaced Metrazol, not for greater efficacy, but wholly for ease of use.  By the 1950s, grand mal seizures were being induced in thousands of patients in the main psychiatric treatment centers worldwide."</p>
+ECT was first used by Ugo Cerletti, MD, in 1938, in Rome.  Here's a <a href="http://www.23nlpeople.com/psychiatry/electroshock_Cerletti.php">description</a>, written by Dr. Cerletti himself, of the first use of this "therapy":
+<p style="padding-left: 30px;">"A schizophrenic of about forty, whose condition was organically sound, was chosen for the first test. He expressed himself exclusively in an incomprehensible gibberish made up of odd neologisms, and since his arrival from Milan by train without a ticket, not a thing had been ascertainable about his identity.</p>
+<p style="padding-left: 30px;">Preparations for the experiment were carried out in an atmosphere of fearful silence bordering on disapproval in the presence of various assistants belonging to the clinic and some outside doctors.</p>
+<p style="padding-left: 30px;">As was our custom with dogs, Bini and I fixed the two electrodes, well wetted in salt solution, by an elastic band to the patient's temples. As a precaution, for our first test, we used a reduced tension (seventy volts) with a duration of 0 2 second. Upon closing the circuit, there was a sudden jump of the patient on his bed with a very short tensing of all his muscles; then he immediately collapsed onto the bed without loss of consciousness. The patient presently started to sing at the top of his voice, then fell silent. It was evident from our long experience with dogs that the voltage had been held too low.</p>
+<p style="padding-left: 30px;">I, bearing in mind the observations with repeated applications of the day before upon pigs, made arrangements for a repetition of the test.</p>
+<p style="padding-left: 30px;">Someone got nervous and suggested whisperingly that the subject be allowed to rest; others advised a new application to be put off to the morrow. Our patient sat quietly in bed, looking about him. Then, of a sudden, hearing the low toned conversation around him, he exclaimed - no longer in his incomprehensible jargon, but in so many clear words and in a solemn tone - 'Not a second. Deadly! '</p>
+<p style="padding-left: 30px;">The situation was such, weighted as it was with responsibility, that this warning, explicit and unequivocal, shook the persons present to the extent that some began to insist upon suspension of the proceedings, Anxiety lest something that amounted to superstition should interfere with my decision urged me on to action. I had the electrodes reapplied, and a 110-volt discharge was sent through for 0.5 second. The immediate, very brief cramping of all the muscles was again seen; after a slight pause, the most typical epileptic fit began to take place. True it is that all had their hearts in their mouths and were truly oppressed during the tonic phase with apnea, ashy paleness, and cadaverous facial cyanosis - an apnea which, if it be awe-inspiring in a spontaneous epileptic fit, now seemed painfully never-ending - until at the first deep, stertorous inhalation, and first clonic shudders, the blood ran more freely in the bystanders' veins as well; and, lastly, to the immense relief of all concerned, was witnessed a characteristic, gradual awakening 'by steps'. The patient sat up of his own accord, looked about him calmly with a vague smile, as though asking what was expected of him. I asked him: 'What has been happening to you?' He answered, with no more gibberish: 'I don't know; perhaps I have been asleep.'"</p>
+Note how Dr. Cerletti dismisses as "superstition" the notion that the victim's prohibition ('Not a second.  Deadly') should be taken seriously.  And when Dr. Fink writes that electricity replaced Metrazol "…for ease of use," he probably was not talking about the <em>client's</em> ease.
+
+The great tragedy of all this is that the "improvements" noted following electric shock convulsions are similar to, and essentially instances of, the transient state of euphoria and compliance that frequently follows severe head injury.
+<p style="text-align: center;"><strong>. . . . . . . . . . . . . . . .</strong></p>
+<p style="padding-left: 30px;">"Widespread belief that electricity caused brain damage and persistent memory loss stigmatized the treatment."</p>
+Note the word "belief" and the suggestion that these "beliefs" were unfounded.  In other writings, Dr. Fink has been more direct.  On October 1, 2006, for instance, he wrote an article for Psychiatric Times called <em><a href="http://www.psychiatrictimes.com/articles/camelford-hysteria-lesson-ect">The Camelford Hysteria: A Lesson for ECT?</a></em>  In this piece, he states clearly:
+<p style="padding-left: 30px;">"Complaints of persistent memory loss in otherwise well-functioning individuals after recovery from a psychiatric illness through ECT are best viewed as a conversion reaction or a somatoform disorder."</p>
+In other words, if my readers will pardon the expression, the memory loss is all in their heads!  Psychiatry is a great disrespecter of people, but this statement of Dr. Fink's must surely take the proverbial biscuit.
+
+Back to the Celebrating 80 Years article.
+<p style="padding-left: 30px;">"For more than half a century, our research interest focused on minimizing electricity's hazards.  Electrode placement, electricity form and energy dosing were repeatedly tested, but no modification was without complaint."</p>
+This strikes me as an interesting way to spend 50 years, if in fact the hazards were nothing more than the manifestations of victims' neurotic imaginations.
+<p style="text-align: center;"><strong>. . . . . . . . . . . . . . . .</strong></p>
+<p style="padding-left: 30px;"> "Meduna's hypothesis that seizures, not the method of induction, were the basis for remission was repeatedly verified"</p>
+<p style="padding-left: 30px;">"An alternative to electricity using the inhalant anesthetic flurothyl is of renewed interest."</p>
+And finally:
+<p style="padding-left: 30px;">"Ladislas Meduna's demonstration that induced seizures alleviated severe psychiatric disorders was a remarkable medical advance that developed despite universal fears of epilepsy and of electricity.  Although little heralded, the remissions of the illnesses of many hundreds of thousands of the severely ill justify the celebration of this remarkable discovery."</p>
+In fact, however, electric shock "treatment" is no more effective than sham ECT, in which the client is prepared and anaesthetized, but not actually shocked (<a href="https://docs.google.com/file/d/0B5cLaT3gdm9NMTF2MVBfU1paOUk/edit?pli=1">Bracken et al, 2012</a>)
+
+When one considers the pains to which real doctors go to protect their patients from seizures, I suggest that the deliberate induction of grand mal seizures, often involuntarily, constitutes neither "a remarkable discovery" nor a "remarkable medical advance," but rather <strong>aggravated assault by a person in a position of trust</strong>.
+
+In September 2005, Dr. Fink was <a href="http://www.psychiatrictimes.com/articles/through-times-max-fink-md">interviewed</a> by Arline Kaplan Long, and the interview was written up in Psychiatric Times.  Here's a quote from the article:
+<p style="padding-left: 30px;">"Asked what he wants psychiatrists and others to understand about ECT, Fink responded, 'Over the 70-plus years that ECT has been around, we have learned to appreciate that something magical happens in the body when we produce an epileptic fit.'"</p>
+And here, dear readers, I have to confess that words fail me!

@@ -1,0 +1,64 @@
+---
+title: The Problem of Blame
+date: '2014-01-29T05:52:05Z'
+author: PhilHickeyPhD
+categories:
+- A Behavioral Approach to Mental Disorders
+- parenting
+tags: []
+---
+
+<span style="line-height: 1.5em;">On January 27, I posted </span><i style="line-height: 1.5em;"><a href="https://www.behaviorismandmentalhealth.com/2014/01/27/maternal-attachment-in-infancy-and-adult-mental-health/">Maternal Attachment in Infancy and Adult Mental Health</a>.  </i><span style="line-height: 1.5em;">In this article I reviewed a longitudinal study by Fan et al.  The main finding of the study was:</span>
+<p style="padding-left: 30px;">“Infants who experience unsupportive maternal behavior at 8 months have an increased risk for developing psychological sequelae later in life.”</p>
+In my article, I pointed out that the correlation between the low maternal attachment ratings and subsequent "mental health" issues was not perfect, so clearly this was not the <i>only</i> factor involved in the adult children's subsequent problems.  But I also made the point that what we do as parents affects how our children function in adulthood.
+
+For me this is simply an obvious fact of life that tragically has been barred from discussion by the psychiatric mantra – that all significant problems of thinking, feeling, and/or behavior are genetic-linked brain illnesses, and that parents couldn't have impacted the outcome one way or the other.
+
+The post generated a few comments on the blame-the-parents issue, and, since this is a critical topic in the current psychiatric debate, I thought it might be helpful to discuss the matter further.
+<p align="center"><b>. . . . . . . . . . . . . . . .</b></p>
+Firstly, we can’t have our cake and eat it too.  If we reject the facile psychiatric brain illness theory, then we ought to be willing to discuss other notions, and follow the evidence wherever it leads us.  Most people have no difficulty accepting the notion that the experience of being bullied during childhood can promote the development of significant problems in adult life.  Why is it such a reach that cold, detached parenting during infancy might also have importance in this respect?
+
+Secondly, in matters of human behavior, there are <i>always</i> multiple paths to the same place.  In other words, two people might be engaging in pretty much the same kinds of activity, but for very different reasons.
+
+Thirdly, human behavior (including thinking and feeling) is always <i>multi</i>-determined.  In other words, not only are there different ways to get to the same place, but a given individual may have traversed several of these routes simultaneously to arrive at his present position.  Linear, simplistic explanations of human activity are almost always incomplete, and sometimes downright false.
+
+Fourthly, looking for, and finding, <i>reasons</i> for human behavior is not at all the same thing as assigning <i>blame</i>.  I read of an incident recently in our local newspaper that nicely illustrates this difference.
+
+A few months back we had a tragic traffic accident on one of our highways.  Earlier, there had been a fender-bender in which a vehicle had been disabled and was blocking a lane.  A police officer and a tow-truck driver were clearing things up, when another vehicle, the driver of which had clearly become distracted, plowed through at about 70 mph, killing the tow-truck driver and seriously injuring the policeman.  The driver was charged, of course, and the case is grinding its way through the legal system.
+
+Recently the widow of the tow-truck driver asked the court if the matter could be expedited, because she and her family had forgiven the culprit, recognized that it was a tragic accident, understood how it had happened, and wanted to move on.
+
+The point of the story is that <i>blaming</i> and <i>asking why</i> are two completely different activities.  The former is generally unhelpful; <i>the latter is necessary if we are to learn from our mistakes.</i>
+
+Fifthly, in my experience, most parents are willing to accept a measure of credit when their children do well and a measure of responsibility when they don't do so well.  I often hear parents of grown children say things like:  my son is kind of timid, and I think maybe it's because I was too hard on him; or my daughter doesn't have a lot of initiative, I think maybe we were too protective; or my son is a bit on the wild side, I don't think I was strict enough, etc…
+
+Most parents of grown children, including myself, can identify with these kinds of statements, and can see in hindsight things we might have done differently.  So why should the problems embraced by the term "mental health" be conceptualized differently?  <i>These are not a special class of problem, despite psychiatry's insistence to the contrary.</i>
+
+Psychiatry routinely condemns as parent-bashing any attempt to explore or discuss these problems in terms of family dynamics.  Anyone who doesn't accept their orthodoxy must be a parent-basher.  This spurious nonsense has been developed and promoted to win parents over to the "take-your-pills-for-life" philosophy, but in fact it is nothing more than deceptive propaganda.  What they're saying essentially is:  all significant problems are gene-linked brain illnesses, and anyone who suggests otherwise must be a parent-basher.  We need to recognize this self-serving nonsense for what it is.
+
+So for all of these reasons, I think we need to keep an open mind.  I'm certainly not advocating a return to the "cherchez-la-femme" type of thinking that was popular in the 50's, but we do ourselves no favors if we over-react to that kind of approach and deny the simple reality – clear and obvious to previous generations – that <strong>parents, mothers <i>and</i> fathers, have a significant impact on their children's lives</strong>.  We are not the <i>only</i> influencing factor, but our impact is not trivial.  We can do a great deal of good, but we can also do a great deal of harm.
+
+Psychiatry – in pursuit of its own self-serving agenda – has made this a taboo subject.  We need to break this taboo, and start discussing these matters, as well as other pertinent factors such as poverty, discrimination, injustice, bullying, etc., openly and honestly – not in a mode of blame and censure – but rather in a mode of exploration and understanding.  Some of the most effective therapy I've ever done was with parents and their grown children, where these kinds of issues were aired with openness and candor.
+
+With regards to the Fan et al paper, I have no inside information, but in general terms the study seems to have been conducted in a thorough and careful manner.  Longitudinal studies of this kind are something of a gold standard in addressing these sorts of questions, and it would, in my view, be foolish to ignore the results.
+
+It would also be foolish to <i>overstate</i> the results.  As I pointed out in my earlier article, in many cases where low maternal attachment was noted in infancy, there were <i>no</i> "mental health" problems in adult life; and in some cases where low maternal attachment was <i>not</i> noted there <i>were</i> "mental health" problems later.  The study does not give us a simple discriminator that we can apply blindly to all mother-infant interactions.  Rather, it leaves us with the suggestion that it might be a good thing to encourage mothers to interact positively and affectionately with their babies, especially in cases where this kind of interaction does not seem to be happening.  And who can argue with that?
+
+It might be objected that this kind of material is self-evident, and that everybody knows that mothers should be affectionate and comforting to their babies.  It could be argued that conducting research on something this obvious is a waste of time and resources.  But we should remember that for two or three generations prior to the 1950's, it was widely promoted and accepted in pediatric circles that parents should avoid "excessive" affection with their babies and young children.  In 1894, Luther Emmett Holt, MD, a leading American pediatrician, wrote <a href="http://books.google.com/books?id=zV8AdpcI77UC&amp;pg=PA168&amp;lpg=PA168&amp;dq=Are+there+any+valid+objections+to+kissing+infants?&amp;source=bl&amp;ots=tGPCwZtaMM&amp;sig=JJsHrPh9Hb8ruwgmSMdpLO4OYio&amp;hl=en&amp;sa=X&amp;ei=23voUtKxCdDyyAGJ74HYDg&amp;ved=0CCwQ6AEwAQ#v=onepage&amp;q=Are%20there%20any%20valid%20objections%20to%20kissing%20infants%3F&amp;f=false"><i>The Care and Feeding of Children</i></a>.  This book quickly became a bestseller, and remained influential well into the twentieth century.  Here are two quotes:
+<p style="padding-left: 30px;">"Are there any valid objections to kissing infants?</p>
+<p style="padding-left: 30px;">There are many serious objections. Tuberculosis, diphtheria, and many other grave diseases may be communicated in this way. The kissing of infants upon the mouth by other children, by nurses, or by people generally, should under no circumstances be permitted. Infants should be kissed, if at all, upon the cheek or forehead, but the less even of this the better." p 168</p>
+<p style="padding-left: 30px;"> "At what age may playing with babies be begun?</p>
+<p style="padding-left: 30px;">Babies under six months old should never be played with; and the less of it at any time the better for the infant."  p 165</p>
+The psychologist John Watson (1878-1958) also advocated a businesslike approach to child-rearing.  In the book <i>Psychological Care of the Infant and Child </i>(1928), which he co-authored with his wife, Rosalie Raynor Watson, he stated:
+<p style="padding-left: 30px;">"Let your behavior always be objective and kindly firm. Never hug and kiss them, never let them sit on your lap. If you must, kiss them once on the forehead when they say goodnight. Shake hands with them in the morning. Give them a pat on the head if they have made an extraordinary good job of a difficult task." (Quoted in Bigelow and Morris, <a href="http://www.baojournal.com/BDB%20WEBSITE/archive/BDB-2001-01-01-026-030.pdf"><i>John B. Watson's Advice on Child Rearing</i></a>, Behavioral Development Bulletin, Vol. 1, Fall 2001).</p>
+ As with Dr. Holt, the Watsons' child-rearing advice was generally well received.
+
+So the notion that parenting, even of very young babies, should be rather businesslike and unemotional had a lot of momentum in the first half of the twentieth century, and in fact it was largely in reaction to this kind of child-rearing ethos that Benjamin Spock, MD, wrote his famous book <i>The Commonsense Book of Baby and Child Care</i> in 1946.
+
+It was presumably also in response to these kinds of ideas that the 1960's researchers who initiated the longitudinal study currently under discussion had included a measure of maternal <i>over-</i>involvement which included displays of affection.  Not surprisingly, this measure was found to be <i>not</i> associated with the development of problems in adulthood.
+
+Underlying the parent-bashing objection there is an unspoken assumption: that if a mother is not displaying strong emotional attachment to her baby, then she must be a "bad mother" – somehow defective – a disgrace to her gender.  But, in fact, there are all sorts of reasons why a mother might be emotionally detached.  Perhaps she's an abused spouse.  Perhaps she's never had role models and doesn't really know what to do.  This is an increasing problem as families get smaller, and children aren't involved in the care of younger siblings.  Perhaps the new mother lacks confidence and fears she might hurt the baby.  Perhaps she's carrying some trans-generational vestige of the old Holt-Watson ideas.  Or perhaps she's so worn-out and tired that she can't generate much enthusiasm for anything beyond the bare necessities of childcare.  Whatever the reason, she needs<strong> help and coaching rather than censure</strong>.
+
+But<strong> this kind of help won't happen until we get to a point where we can discuss the link between parent-child interactions and subsequent development openly</strong>, and undefensively.  If this had been a study about sports, for instance, and had found that children of parents who encouraged their toddlers in sporting activities were more likely to pursue sports in later life, we would have no difficulty in joining the dots.  But the logic is essentially the same.  We critique psychiatrists for cherry picking their research results.  Let's not fall into the same trap.  If there are methodological flaws in the Fan et al study, let's critique them.  But we shouldn't resist the paper just because we don't like its conclusions.  We must not allow psychiatry's threat, to brand us as parent-bashers, to scare us from stating the obvious.
+
+&nbsp;

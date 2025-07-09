@@ -1,0 +1,26 @@
+---
+title: 'Homosexuality: The Mental Illness That Went Away'
+date: '2011-10-08T14:14:29Z'
+author: PhilHickeyPhD
+categories:
+- A Behavioral Approach to Mental Disorders
+tags: []
+---
+
+<span style="line-height: 1.5em;">Post edited and updated January 2, 2013, to reflect clarifications as a result of interactions with the many people who have left comments.  I thank them for their input.</span>
+<p align="center">********************</p>
+According to the American Psychiatric Association, until 1974 homosexuality was a mental illness.  Freud had alluded to homosexuality numerous times in his writings, and had concluded that paranoia and homosexuality were inseparable.  Other psychiatrists wrote copiously on the subject, and homosexuality was “treated” on a wide basis.  There was little or no suggestion within the psychiatric community that homosexuality might be conceptualized as anything other than a mental illness that needed to be treated.  And, of course, homosexuality was listed as a mental illness in DSM-II.  (The DSM – Diagnostic and Statistical Manual – is the APA's standard classification of their so-called mental disorders, and is used by many mental health workers in the USA and other countries.)
+
+Then in 1970 gay activists protested against the APA convention in San Francisco.  These scenes were repeated in 1971, and as people came out of the “closet” and felt empowered politically and socially, the APA directorate became increasingly uncomfortable with their stance.  In 1973 the APA’s nomenclature task force recommended that homosexuality be declared normal.  The trustees were not prepared to go that far, but they did vote to remove homosexuality from the list of mental illnesses by a vote of 13 to 0, with 2 abstentions.  This decision was confirmed by a vote of the APA membership, and homosexuality was no longer listed in the seventh edition of DSM-II, which was issued in 1974.
+
+What’s noteworthy about this is that the removal of homosexuality from the list of mental illnesses was not triggered by some scientific breakthrough.  There was no new fact or set of facts that stimulated this major change.  Rather, it was the simple reality that gay people started to kick up a fuss.  They gained a voice and began to make themselves heard.  And the APA reacted with truly astonishing speed.  And with good reason. They realized intuitively that a protracted battle would have drawn increasing attention to the spurious nature of their entire taxonomy.  So they quickly “cut loose” the gay community and forestalled any radical scrutiny of the DSM system generally.
+
+The APA claimed that they made the change because new research showed that most homosexual people were content with their sexual orientation, and that as a group, they appeared to be as well-adjusted as heterosexual people.  I suggest, however, that these research findings were simply the APA's face-saver.  For centuries, perhaps millennia, homosexual people had clung to their sexual orientation despite the most severe persecution and vilification, including imprisonment and death.  Wouldn't this suggest that they were happy with their orientation?  Do we need research to confirm this?  And if we do, shouldn't we also need research to confirm that heterosexual people are happy with their orientation?  And if poor adjustment is critical to a diagnosis of mental illness, where was the evidence of this that justified making homosexuality a mental illness in the first place?
+
+Also noteworthy is the fact that the vote of the membership was by no means unanimous.  Only about 55% of the members who voted favored the change.
+
+Of course, the APA put the best spin they could on these events.  The fact is that they altered their taxonomy because of intense pressure from the gay community, but they claimed that the change was prompted by research findings.
+
+So all the people who had this terrible “illness” were “cured” overnight – by a <i>vote</i>!  I remember as a boy reading of the United Nations World Health Organization’s decision to eradicate smallpox.  This was in 1967, and by 1977, after a truly staggering amount of work, the disease was a thing of the past.  Why didn’t they just take a vote?  Because smallpox is a <i>real</i> illness.  The human problems listed in DSM are not.  It’s that simple.  You can say that geese are swans – but in reality they’re still geese.
+
+The overall point being that the APA’s taxonomy is nothing more than self-serving nonsense.  Real illnesses are not banished by voting or by fiat, but by valid science and hard work.  There <i>are no mental illnesses.</i>  Rather, there are <i>people</i>.  We have problems; we have orientations; we have habits; we have perspectives.  Sometimes we do well, other times we make a mess of things.  We are <i>complicated</i>.  Our feelings fluctuate with our circumstances, from the depths of despondency to the pinnacles of bliss.  And perhaps, most of all, we are individuals.  DSM’s facile and self-serving attempt to medicalize human problems is an institutionalized insult to human dignity.  The homosexual community has managed to liberate themselves from psychiatric oppression.  But there are millions of people worldwide who are still being damaged, stigmatized, and disempowered by this pernicious system to this day.

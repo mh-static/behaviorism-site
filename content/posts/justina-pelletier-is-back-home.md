@@ -1,0 +1,40 @@
+---
+title: Justina Pelletier Is Back Home
+date: '2014-06-22T05:00:43Z'
+author: PhilHickeyPhD
+categories:
+- A Behavioral Approach to Mental Disorders
+- somatic symptom disorder
+tags: []
+---
+
+I guess everybody knows by now that Justina Pelletier is back with her parents after 16 months in the custody of Massachusetts Department of Children and Families.
+
+According to a <a href="http://www.bostonglobe.com/metro/2014/06/09/attorney-state-has-filed-motion-that-would-release-justina-pelletier-her-parents/CrVnLiKTpa3sBo0nhkrz1J/story.html">Boston Globe</a> report dated June 9, top DCF officials recently submitted papers to the court asking that Justina be returned to the custody of her parents, and a June 19 <a href="http://www.bostonglobe.com/metro/2014/06/18/justina-pelletier-returns-her-family-home-connecticut-ending-medical-and-legal-odyssey/ON7QhGURgprYZoVS7uuxeL/story.html">Boston Globe article</a> confirmed that Judge Joseph Johnstone had, on June 18, issued an order to that effect.
+
+The activities of Boston Children's Hospital and Massachusetts DCF in this matter have been the subject of much discussion and controversy.  Justina was initially admitted to BCH with a long-established diagnosis of mitochondrial disease, but from the outset this was challenged by BCH physicians and psychiatrists, and a psychiatric "diagnosis" of somatic symptom disorder was assigned instead.  Lou and Linda were accused of medical child abuse, which essentially alleges that they were, in subtle or other ways, contributing to Justina's self-image as a sick person.
+
+The entire matter has been debated widely in various forums, and the issues need not be restated here.  There are a few points, however, that might usefully be kept in focus at this juncture.
+
+Firstly, it seems unlikely that the Pelletiers would have achieved the present result if Lou had not made the difficult decision to break the court's gag order in February of this year.  The resulting publicity became acutely embarrassing for BCH and DCF, and it is reasonable to surmise that a major part of their motivation in recent months has been to find a way to extricate themselves from this situation without having to acknowledge fault.  In this context, it is noteworthy that, as a result of the controversy, DCF Commissioner Olga Roche offered her resignation on April 29, 2014, and this was accepted by Massachusetts Health and Human Services Secretary John Polanowicz.
+
+Secondly, the report that Lou and Linda had made "significant progress" sounds like a face-saving fabrication, in that, firstly, in all of the reports on this matter, there has been nothing to suggest that Lou and Linda were at fault.  And secondly, both parents, as reported in the Boston Globe on June 19, remain committed to their earlier position.  Here's a quote from the Globe article:
+<p style="padding-left: 30px;">"The Pelletiers said they intend to press their argument that hospitals are too eager to accuse families of medical child abuse without sufficient reason, seizing children from their mothers and fathers.</p>
+<p style="padding-left: 30px;">Linda and Lou Pelletier remain adamant Justina’s ailments have always been physical, not psychiatric. They said she regressed when doctors at Boston Children’s Hospital stopped treating her for mitochondrial disease.</p>
+<p style="padding-left: 30px;">Lou Pelletier said he 'will not stop until there is a Justina’s Law.'</p>
+<p style="padding-left: 30px;">'Ultimately, anybody who was involved in Justina’s deconditioning, torture, abuse, needs to be held accountable,' he said."</p>
+This does not sound like a person who has made "significant progress" in the psychiatric sense of the term.  So the question naturally arises:  in what particular area or matter have Linda and Lou Pelletier made such progress as to warrant a complete reversal of the permanent custody order which was reinstated only three months ago.  Or is this official finding just a face-saving ploy on the part of BCH, DCF, and the court to avoid having to admit error?
+
+Thirdly, there is a pressing need not to let this matter fade away.  Somatic symptom disorder is simply another way of saying that <em>in the opinion of a psychiatrist,</em> based usually on a brief interview, the individual or the individual's parents are excessively and disproportionately concerned about a particular illness, or about health matters generally.  This, at the very least, seems like very tenuous and unreliable grounds for removing a child from her parents' custody.
+
+Fourthly, in the early months of this matter, it was suggested in the media that there were overly close links between the child protection team at BCH and the case workers at DCF.  DCF (and similar departments in other states) have a statutory responsibility to <em>investigate</em> complaints of abuse and/or neglect, and to petition the courts as appropriate in the light of their findings.  It is helpful for DCF caseworkers to have <em>good</em> relationships with medical personnel, but there needs to be constant vigilance against these relationships becoming so close that the DCF investigation degenerates into a rubber stamp. This is especially important with psychiatry, where all "diagnoses" and clinical judgments are <em>inherently</em> <em>subjective.</em>
+
+Fifthly, there were also some <a href="http://www.theblaze.com/stories/2013/12/16/campaign-of-terror-one-of-the-best-hospitals-in-the-country-is-accused-of-doing-one-of-the-worst-things-imaginable-to-families-again/">allegations</a> in the earlier months that BCH may have had some financial agenda, and tended to target "families with good insurance," in this and similar cases.  This should be investigated by a competent and credible <em>outside</em> authority as a matter of urgency.  A particular question that needs to be asked is:  What proportion of BCH's psychiatric revenue comes from these kinds of involuntary commitments?
+
+Sixthly, as pointed out recently by the author of the blog <em><a href="http://slingsandarrowsofoutrageousfortune.wordpress.com/2014/03/14/the-missing-pieces-of-the-puzzle-part-2-freejustina/">Suffering the Slings and Arrows of Outrageous Fortune</a></em> BCH's own <a href="http://www.childrenshospital.org/~/media/Research%20and%20Innovation/Office%20of%20Clinical%20Investigation/cipp_071_001_19_Special_Procedures_for_Wards_of_the_State.ashx">Clinical Investigation Policy Manual</a> states:
+<p style="padding-left: 30px;">"Children who are Wards of the state may be included in research that presents minimal risk 46.404 (50.51) or greater than minimal risk with a prospect of direct benefit 46.405 ( 50.52) of subpart D"</p>
+The question needs to be addressed:  Are BCH patients who are wards of the state being enrolled in clinical trials/experiments more frequently than children who are not in state custody?  In this regard, it is important to bear in mind that pharmaceutical companies often reimburse facilities large sums of money for each subject enrolled in a study.
+<p style="text-align: center;"><strong>. . . . . . . . . . . . . . . .</strong><strong> </strong></p>
+So, the good news is that Justina is home and is overjoyed to be back with her parents and her sisters.  But we need to remember that there have been many other families caught in this web in the past, and there will be more in the future.
+
+Psychiatry does not routinely engage in critical self-scrutiny.  Dogma substitutes for established fact, and there is a pressing need for defense attorneys, guardians ad litem, and indeed judges, to challenge psychiatric assertions, and to maintain a skeptical stance with regards to psychiatric testimony and reports, and to the ontological and explanatory status of the so-called psychiatric diagnoses.  <strong>Psychiatric diagnoses are simply not the same kind of thing as general medical diagnoses, and there is a pressing need to embed reflections of this distinction into the legal framework of the child protection system.</strong>

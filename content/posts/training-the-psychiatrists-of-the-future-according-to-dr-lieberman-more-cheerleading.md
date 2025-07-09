@@ -1,0 +1,112 @@
+---
+title: 'Training the Psychiatrists of the Future (According to Dr. Lieberman): More
+  Cheerleading'
+date: '2013-12-11T05:50:36Z'
+author: PhilHickeyPhD
+categories:
+- A Behavioral Approach to Mental Disorders
+- Psychiatric "spin"
+- expansion of psychiatric turf
+- over-medicalization of everyday life
+tags: []
+---
+
+Jeffrey Lieberman, MD, President of the APA and Chair of Psychiatry at Columbia University, published a post on November 26 on Psychiatric News.  The article is called <i><a href="http://psychnews.psychiatryonline.org/newsarticle.aspx?articleID=1787247">Training the Psychiatrists of the Future</a>,</i> and is co-authored by Richard Summers, MD.  Dr. Summers is a Professor of Psychiatry at the University of Pennsylvania.
+
+Drs. Lieberman and Summers open by telling us that psychiatrists' roles "…are changing and will continue to change."  That sounds great, but don't expect too much.  There will still, they tell us, be a need for:
+<p style="padding-left: 30px;">"…continued commitment to the essential skills and attitudes we all hold dear while developing new learning objectives, venues, and experiences to prepare our trainees for the times ahead."</p>
+I've known a good many psychiatrists in recent decades, and the only essential skill that I've noticed with any measure of regularity and consistency is in the activity known as the "med check."  This consists of a 10-15 minute interview exploring the effects of drugs previously prescribed.  It's difficult to know what Drs. Lieberman and Summers mean by "attitudes" in this context.  Perhaps it's:  doctor knows best; or there, there, these pills are very safe; or everything goes better with pills; or it's an illness just like diabetes, etc…
+
+But whatever the attitudes are, Drs. Lieberman and Summers assure us that <i>we</i> all hold them dear.  Could this be the same "we" as in the condescending "How are we doing today, Mr. Jones?"
+
+But let's not get hung up on the preamble.  The good doctors tell us that there are five areas of psychiatric training that will need particular attention in the future.
+
+1.  DOCTOR-PATIENT RELATIONSHIP
+
+In this regard, the authors stress the <i>importance</i> of the doctor-patient relationship and the need for trainee psychiatrists to develop their rapport-building, history-taking, and collaboration skills.  They also stress the need to develop an effective therapeutic alliance.
+
+This sounds great.  Psychiatrists are finally going to start getting to know their clients and taking the time to relate to them as <i>people</i> rather than as clusters of <i>druggable symptoms</i>.
+
+But alas, read on:
+<p style="padding-left: 30px;">"The psychiatrist of the future will likely have <i>less</i> regular face-to-face contact with patients…" [emphasis added]</p>
+Less than 10-15 minute "med checks" every three months?  How can a <i>reduction</i> in face-to-face time promote <i>improved</i> rapport or a <i>more effective</i> therapeutic alliance?
+
+I can imagine my readers' skepticism.  It can't be done, you might say.  One <i>can't</i> improve rapport while <i>reducing</i> face-to-face time!  But wait – this is psychiatry we're dealing with.  Ordinary Aristotelian logic doesn't apply.  Drs. Lieberman and Summers tell us that they're going to accomplish this therapeutic miracle using the following techniques:
+<ul>
+	<li>telepsychiatry (webcam?)</li>
+	<li>other forms of telephonic contact (the phone?)</li>
+	<li>Internet contact (emails?)</li>
+	<li>team-based care (tell the social workers to establish rapport?)</li>
+	<li>Assertive Community Treatment (big topic – future post)</li>
+</ul>
+And (and this I can't even begin to fathom)
+<ul>
+	<li>"…communicating with patients while accessing electronic medical records…"</li>
+</ul>
+I think this means that they're planning to "develop their rapport-building" and improve the "therapeutic alliance" by teaching trainee psychiatrists how to talk to clients, while at the same time reading the client's file on their tablets or notebooks or desk computers.  The mind truly boggles!
+
+2.  DIVERSITY, BROAD RANGE OF TREATMENTS, BROAD RANGE OF ROLES
+
+Psychiatry, they tell us:
+<p style="padding-left: 30px;">"…encompasses a broad range of illnesses and a particularly broad range of treatments."</p>
+They don't mention that the problems that they "treat" are not illnesses in any conventional sense of the term.  Nor do they point out that the broadness of this spectrum is entirely a function of 60 years of APA voting and fiat, and not a product of the kind of scientific discovery that characterizes real medicine.
+
+The authors also tell us that there will be a need for "behavioral health specialists" (read: psychiatric assistants) who are "…integrated with primary care."
+
+This "integration with primary care" has been a constant theme in Dr. Lieberman's writings in recent months.  The idea is to have a psychiatrist, or a tame psychiatric assistant, in <i>every GP's office!</i>
+
+3.  INTEGRATED BEHAVIORAL HEALTH CARE
+
+This next paragraph, I have to quote in full:
+<p style="padding-left: 30px;">"The momentum for patient-centered care, the medical home, and integration of behavioral health with primary care creates a new role for psychiatrists. Many are doing this now, but the roles are evolving as the systems are changing. We do know that this role, which will expand in the coming years, involves increased knowledge and comfort with primary care medicine, understanding of chronic illness and how people adapt, a population-based approach, as well as strong skills in interpersonal communication and collaboration and knowledge about systems of care."</p>
+Although I greatly appreciate everything that Dr. Lieberman has done, and continues to do, for the anti-psychiatry movement, I have to acknowledge that he is not always entirely clear in his writings.  I find myself struggling particularly with the above paragraph, but here's my best shot:
+
+The <a href="http://en.wikipedia.org/wiki/Medical_home">medical home</a> according to Wikipedia is a team-based healthcare delivery model.  Its purpose is to provide <i>comprehensive primary care</i> for all patients, and there would be recognition, including financial reimbursement, for <i>co-ordination</i> activities, and not just for <i>face-to-face</i> physician-patient contact.  It is, in fact, the model which, in theory at least, underlies almost every mental health center in the US.  It is an elaborated version of the interdisciplinary team which, whatever its merits in former decades, has frequently degenerated in recent times <i>under psychiatric leadership</i> to little more than a committee-to-pressure-clients-to-take-their-drugs.
+
+What the good doctors are saying in this paragraph (or at least what I <i>think</i> they're saying) is that there is momentum to introduce this kind of interdisciplinary approach in general practice, <i>and</i> that psychiatrists need to get on this bandwagon and establish themselves as a necessary and integral component of every primary practice in the country.
+
+In short, it's just another instance of psychiatry latching onto an opportunity to expand its turf and find new outlets for its drugs.  Their ideal is clearly that every visit to a GP will involve a mental health screening.  This almost inevitably will "uncover" a hitherto unrecognized mental illness and a prescription for a psychotropic drug.
+
+What the authors mean by "…a population-based approach" I can't even imagine.  (Quetiapine in the drinking water?)
+
+4.  NEUROSCIENCE EDUCATION
+<p style="padding-left: 30px;">"There is clearly an appetite for learning about neuroscience and an increasing requirement for providing it. This will become increasingly important as the gap between neuroscience knowledge and psychiatric practice closes."</p>
+In other words, the great neuroscientific breakthrough is just around the corner, and we need to start training new psychiatrists in these practices.  Now where have we heard that before?
+<p style="padding-left: 30px;">"A nationally developed, shared, and disseminated set of resources to support improved neuroscience education would help to meet these goals. The American Association of Directors of Psychiatric Residency Training’s Neuroscience Education Initiative is taking on this challenge and is supported by our APA Council on Medical Education and Lifelong Learning. Grant funding may be required to achieve this goal."</p>
+In other words: give us more money.  Now where have we heard that before?  Pharma-funded "education" is waning under the spotlight of legislative scrutiny.  So new sources of money will be needed – presumably tax dollars.
+
+5.  SYSTEMS OF CARE AND QUALITY IMPROVEMENT
+<p style="padding-left: 30px;">"The increased awareness that errors reside in systems and that outcomes are determined by processes as much as individuals provides an extraordinary opportunity to improve care. But this will only occur if we learn how to effectively and efficiently study our systems and change them appropriately."</p>
+These are wise words.  Sometimes we can become so entrenched in our practices and perceptions that we are doing more harm than good.  And there are certainly many errors residing in psychiatry's systems.
+
+The primary error, I would suggest, is the <i>systematic</i> and spurious medicalization of all significant problems of thinking, feeling, and/or behaving.  What a difference it would make if psychiatry were to "…learn how to effectively and efficiently study…" that particular system.  Or the <i>systematic</i> prescription of dangerous chemicals for virtually all human problems.  Surely that warrants some effective and efficient study.  Or the systematic rejection of negative client feedback as symptoms of their putative illnesses.
+
+Alas, no.  Drs. Lieberman and Summers are not thinking of anything so far-reaching.  Traditional quality assurance is what they've got in mind with some improved "…metrics and measures of care quality…"  (e.g. medication compliance measurements?)
+
+CONCLUSION
+
+The authors conclude their article with this startling pronouncement:
+<p style="padding-left: 30px;">"The psychiatrists of the future will certainly need to know how to connect with and relate to others…"</p>
+implying, I suggest, that psychiatrists of the present <i>don't</i> know how to do this.  Doesn't the truth have a way of slipping out?  Goldarnit!
+
+Psychiatry's new recruits will also, we are told:
+<p style="padding-left: 30px;">"…need training in integration with primary care practice…"</p>
+There it is again – a psychiatrist in every GP's office.
+
+DISCUSSION
+
+On October 14, 2013, I wrote a post titled <i><a href="https://www.behaviorismandmentalhealth.com/2013/10/14/health-care-reform-and-psychiatry/">Health Care Reform and Psychiatry</a>.</i>  In this article I criticized psychiatry's persistent failure to address, or even acknowledge, its problems, and I also drew attention to the APA's Council on Communications' mission:
+<ul>
+	<li>Connecting the public emotionally to psychiatrists</li>
+	<li>Creating excitement about psychiatrists’ ability to prevent and treat mental illness, and</li>
+	<li>Branding psychiatrists as the mental health and physician specialists with the most knowledge, training, and experience in the field</li>
+</ul>
+My point then was, and now still is, that this is nothing more than a tawdry PR job, when what's needed is a massive house-cleaning.
+
+What's interesting in the present context is that Dr. Lieberman has clearly taken the Council on Communications agenda to heart.  All of his posts lately have been more like cheerleading scripts than what one might legitimately expect from the President of a specialty medical association.  He plugs away endlessly at the same few self-serving themes, e.g.: we're real doctors – really; we need a psychiatrist in every GP's office; we need to expand services; we need more mental health screening; we need parity with general medicine; the great neuroscientific breakthrough is just around the corner, etc…
+
+But no sign of an apology for the damage they have done, no critical re-appraisal of their spurious concepts, and no retreat from the expansionist philosophy that has driven psychiatry for the past 50 years.  <strong>Just the same old spurious, self-serving propaganda.</strong>
+
+&nbsp;
+
+&nbsp;

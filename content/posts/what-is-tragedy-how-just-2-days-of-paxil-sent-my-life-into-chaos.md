@@ -1,0 +1,16 @@
+---
+title: What Is Tragedy? How Just 2 Days of Paxil Sent My Life Into Chaos
+date: '2021-04-07T05:30:30Z'
+author: A reader
+categories:
+- Tell Your Story
+tags: []
+---
+
+<p dir="ltr"><img class="alignnone size-full wp-image-1519" src="/images/tell-your-story.png" alt="This post was submitted by a reader." width="247" height="209" /></p>
+<p dir="ltr">by Michael Coughlin</p>
+<p dir="ltr">I survived the tragic and sudden death of my 12-year-old brother, the near-death of my second brother, and the horrific suicide of my uncle, all with barely any medication. I became an extremely happy and high-functioning adult through holistic and spiritual growth. I loved life itself.</p>
+<p dir="ltr">Then a freak occurrence happened. I got a pinched nerve in my neck that caused anxiety, and my doctor prescribed Paxil, a dangerous antidepressant, without any screening, a formal diagnosis, or any fair warning of the risks or explanation of how long I would need to take the drug for. I was always against antidepressants because I studied them in college and I knew they were often overprescribed, and I let my guard down for just one day. After just two days of the drug, I couldn’t fall asleep naturally for weeks, something that never occurred in my entire life before. I developed hypomanic symptoms, sleeping only a few hours a night for three weeks, and my doctor was nowhere to be found to help.  He remained in denial. The BU Center for Anxiety &amp; Related Disorders discharged me when I was in need of help.  The McLean Mental Hospital didn’t return my phone calls. I would later learn that I was suffering from Antidepressant-Associated Hypomania and no one could get me the care that I needed.</p>
+<p dir="ltr">After going to the ER at Cape Cod Hospital and being stabilized in their virtual hospitalization program, I was discharged and given a nurse practitioner who only served to poison my mind and worsen my condition. In some evil way, she seemed to gain some hint of joy in saying that I was probably bipolar even though I never had an episode of hypomania, mania, or depression in my life prior to taking Paxil. Furthermore, in the months ahead, she would tell me to cut my new medication too much (by nearly 60-70%) without even speaking to me to make sure I was stable. I destabilized by the end of October because I was suffering from post-traumatic symptoms caused by my mistreatment. I fell deeper into a hole of pain and suffering. The insomnia returned along with suicidal ideation. My Seroquel dosage went up 4 fold, and then it seemed that there was a stronger chance that I had become bipolar. My heart shattered.</p>
+<p dir="ltr">On my saddest day of anger and outrage, I started to choke myself with my hands to feel what it felt like to suffocate to death. I took a belt and hung it over the door hinge. I started to choke myself with the belt to get a feel for what it would be like to hang myself. I thought to myself, “If only my doctor could see my face right now. Maybe then he would change his ways? Probably not.” I took the belt from around my neck and off the hinge. I said to myself, “Not today. Not today.”</p>
+<p dir="ltr">This is tragedy.</p>

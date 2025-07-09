@@ -1,0 +1,79 @@
+---
+title: 'Depression Is Not An Illness: It is an Adaptive Mechanism'
+date: '2009-07-28T11:30:27Z'
+author: PhilHickeyPhD
+categories:
+- A Behavioral Approach to Mental Disorders
+- depression
+- dysthymia
+tags: []
+---
+
+Post edited and updated March 9, 2013, to reflect additional thoughts as a result of interactions with the many people who left comments. I thank them for their input.
+
+DEPRESSION – AN ADAPTIVE MECHANISM
+
+Contrary to the APA’s assertion, depression is not an illness. In fact, depression is an adaptive mechanism which has served humanity well for millions of years. When things are going well in our lives, we feel good. This good feeling is nature’s way of telling us to keep doing what we’re doing. When our lives are not going well, we feel down or depressed. This is nature’s way of telling us to make some changes.
+
+This is very similar to pain. Pain is a signal that tissue is being damaged and that urgent action is needed. For instance, if you touch a hot stove, the pain induces an immediate reaction to pull your hand away. Usually this is accomplished with minimal damage to the skin. Without pain, we would not respond as quickly to these kinds of situations, and we would incur a great deal more tissue damage than is actually the case.
+
+Depression or despondency is not as acute a sensation as pain.  It is more generalized and it signals  - not imminent tissue damage – but problems of a more general nature.  In order to feel good, the following eight factors must be present in our lives.
+
+- good nutrition
+- fresh air
+- sunshine (in moderation)
+- physical activity
+- purposeful activity with regular experiences of success
+- good relationships
+- adequate and regular sleep
+- ability to avoid destructive social entanglements, while remaining receptive to positive encounters *
+
+SOURCES OF DEPRESSION
+
+When any of these factors are missing, or are present to only a slight degree, we begin to feel despondent or depressed.  When <i>many</i> of these factors are missing to a <i>large</i> degree, we become very depressed.  Over the years, I have worked with hundreds of people who were depressed.  To all of these people – without exception – I could say, “If I were in your shoes, living the life you are living, I would be depressed too.”
+
+Many of these individuals lived on a diet which was generally poor.  Others drank enormous quantities of alcohol.  Few ate fruits or vegetables regularly.  Many stayed indoors a good deal of the time.  Physical activity was low.  Purposeful activity – i.e. activity directed towards some kind of goal – was seldom present, and good honest, open relationships often non-existent.
+
+The point here is not to disparage or castigate people who are depressed, but rather to point out that depression is essentially and fundamentally a function of what we are doing - how we are living our lives.  It is not an illness.  It is the body’s natural feedback system.  It is <strong>nature’s way of trying to induce in us some motivation to make changes in our lifestyle</strong> – to eat better; to abstain from toxic substances; to get out in the fresh air and sunshine; to identify goals and pursue them; and to talk to friends and family honestly and openly about the things that trouble us.  If we do these things consistently and regularly – if we integrate these things into our daily routines, then we will start to feel good.  If we don’t do these things, we will feel depressed.  Or as Peter Breggin, MD, puts it in <a href="http://www.huffingtonpost.com/dr-peter-breggin/antidepressants-cause-sui_b_218465.html">Antidepressants Cause Suicide and Violence in Soldiers</a>:  “The principles for overcoming depression are exactly the same principles required for living a good and happy life.”
+
+Everybody experiences an occasional down day.  But we also know what to do about it – get out for a walk; start a project; talk to a friend or loved one, etc.  Chronically depressed people, however, are individuals who have been neglecting these areas for years.  They spend most of their lives indoors.  They are often over-weight, have no goals other than the next TV show, and although they may have many acquaintances, they tend not to share their concerns and worries in an open and honest manner.
+
+Of course, not all depressed people are deficient in <i>all </i>these areas.  Some depressed people eat well, but never share their worries or concerns with anybody.  Others share their worries, but have no purposeful activities.  Others have purposeful and rewarding jobs, but never get outdoors and never engage in physical activity, and so on.
+
+To feel consistently good, we need to have all of these factors present in our lives to a substantial and significant degree.  Nor is this such a daunting proposition.  A person who eats moderately from the five main food groups; who controls his intake of sugar and alcohol; who doesn’t smoke; who has a job or hobby that provides challenges and a sense of fulfillment; who gets outdoors most days for exercise or even for a brisk walk; and who has at least one other person with whom he is open and honest, will feel generally positive.  A person whose life is lacking in one or more of these areas will feel generally negative.  This latter is not an illness – it is not an instance of something going <i>wrong</i> in our bodies.  Rather it is an instance of something going <i>right</i>.  Depression is a <strong>message from the organism calling for change</strong>.  Induction of negative feelings is the only language the organism has to express the need to make changes.
+
+DEPRESSION DUE TO LOSS
+
+Severe losses can, of course, precipitate depression even in otherwise very orderly and functional lives.  Even when all eight factors are present to a substantial degree, the loss of a loved one will usually result in profound feelings of depression.  Similarly, the loss of one’s career, health, home, etc., will generate some measure of depression regardless of previous lifestyle.  People who have been living functional and productive lifestyles, as described above, however, will normally come to terms with the loss in a reasonable time frame.  They will talk about the loss to the people in whom they confide; they will continue to eat well and to exercise, and will continue with the various purposeful activities they have always pursued.  Gradually the sense of loss will recede and the ability to enjoy life will return.  When it seems as if life is coming apart at the seams, <i>it is our routines that save us</i> – provided we have established good functional routines which incorporate the eight factors mentioned above.
+
+However, for people whose lifestyles are deficient, or only marginal, in terms of the eight factors mentioned earlier, a major loss can put them “over the edge,” and they sink into a state of chronic long-term despondency.  In this regard it is worth noting that all human lives are, sooner or later, touched by major tragic losses.  What matters is: how equipped are we, in habits and lifestyle, to handle these losses.  When a person goes to a mental health center and asks for help with depression, the first priority should be a detailed assessment of the person’s lifestyle, habits, relationships, history, etc., to determine the source of the depressive feelings.  From this assessment, a remedial program should be developed and active support and assistance provided to the client in the implementation of this program.
+
+In practice this almost never happens.  The client who mentions depression is routinely shuffled off to the psychiatrist.  He gets a prescription for an antidepressant and is told (falsely) that his depression is an illness "like diabetes," and that he must take his pills in the same way that a diabetic must take insulin.  If supportive or adjunctive therapy is provided at all, it usually takes the form of patronizing pats on the back or reminders to take the “medication.”
+
+DEPRESSION AND NEUROCHEMICAL DEFICIENCIES
+
+Despite decades of highly motivated research on the part of pharmaceutical companies and university departments funded by pharmaceutical companies, no evidence has ever been presented that depression is caused by a physical problem in the brain.  Yet this assertion is routinely presented to clients and their families as justification for the drug prescription.  Elliot Valenstein, Professor Emeritus of Psychology and Neuroscience at the University of Michigan, having reviewed the various biological theories of depression, summarizes the results as follows in his book <a href="http://books.google.com/books?id=fBxyTAEiSUIC&amp;pg=PA110&amp;lpg=PA110&amp;dq=Although+the+often-repeated+statement+that+antidepressants+work+by+correcting+the+biochemcial&amp;source=bl&amp;ots=yuoRB1Kp9y&amp;sig=BuEySiHuqKln-jySEOGIeFdCi8c&amp;hl=en&amp;ei=tpxsSsbfLILesQP_jpiXBQ&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=1#v=onepage&amp;q=Although%20the%20often-repeated%20statement%20that%20antidepressants%20work%20by%20correcting%20the%20biochemcial&amp;f=false">Blaming the Brain</a>:
+<p style="padding-left: 30px;">"Although the often-repeated statement that antidepressants work by correcting the biochemical deficiency that is the cause of depression may be an effective promotional tack, it cannot be justified by the evidence." (p. 110)</p>
+The fact is that antidepressants are mood-altering drugs (essentially in the same general category as alcohol, cocaine, amphetamines, etc.).  All of these drugs have in common that they alter people’s moods.  They make people feel better.  That’s why people take them!  But it doesn’t mean they are a good idea.  There are two ways to get drugs in the United States.  You can go to the street corner and buy them illegally; or you can go to a physician and tell him you are depressed, or anxious, or both.  Either way, you’ll get something that will give you a temporary “fix” for whatever negative feelings are troubling you.  But you will not get any real help with your problem.  In this regard it is worth noting that anti-depressants are only about as effective as placebos (sugar pills).  Whatever lift people get from these products actually comes from within themselves, not from any pharmaceutical correction of brain chemistry.
+
+FREE DEPRESSION SCREENINGS
+
+In recent years many hospitals and clinics have been offering free depression screenings.  If you go in for one of these screenings, it’s obvious that you have been experiencing some depression, and the interviewer will quickly establish (through insultingly simplistic questionnaires) that, yes, you are indeed depressed, and that you would benefit from one of the many wonderful antidepressants currently available, and wouldn't you like an appointment to see our psychiatrist.  These “free” screenings are almost invariably paid for by a pharmaceutical company.  They are a form of marketing and have been a major factor in the promotion of psychotropic drugs.  The hospital staff who participate in these charades are well-intentioned, but in fact are mere cogs in an enormous drug-marketing scheme.
+
+The purpose of the DSM is to promote the false notion that depression is really an illness, and to legitimize the prescription of mood-altering drugs.  The manual lists several different kinds of depression.  Acute, severe depression is called Major Depressive Disorder.  Persistent though less severe depression is called Dysthymia.  Depression that comes and goes and is interspersed with periods of mild mania is called Cyclothymic Disorder.  And so on.  And, of course, if a client doesn’t meet the criteria for any of these – there’s always Depressive Disorder Not Otherwise Specified: a residual category to broaden the scope of the diagnostic net.  In fairness to the APA, all of the several diagnoses require a fairly significant level of severity.  In practice, however, the precise criteria are routinely ignored.  In fact, most of the staff working in the mental health system have only a vague notion of the criteria.  A client who says he’s depressed is assigned a diagnosis and is given antidepressant drugs.
+
+There are, of course, small numbers of mental health staff who although constrained by regulatory agencies to work within the DSM context, nevertheless ignore the implications of the sickness model and provide real help to their clients.  These staff members are a very small minority and, the vast majority of mental health workers embrace the DSM taxonomy wholeheartedly and believe unquestioningly in the ontological validity of the diagnostic categories.
+
+DEPRESSION'S MESSAGE: GET UP AND GET GOING
+
+It is sometimes argued that depression can't be an adaptive mechanism, encouraging us to make changes, because many depressed people, in fact, sink into inactive, lethargic despair.  What's being missed here, however is that in almost all cases, feelings of boredom, blues, depression etc., <i>do in fact</i> serve as a spur to action.  A person sitting around sluggishly on a rainy Saturday afternoon, for instance, starts to feel down and shakes it off by getting up and doing something, or calling his mother, or putting on a raincoat and taking a walk, etc., etc…  But <i>all</i> the messages we receive from our bodies can be eclipsed by counter-productive training.  We are all born with a strong drive to preserve our own lives.  But soldiers, through training and various pressures, can overcome this drive and continue fighting even though the message from within is to run.  Similarly, when our stomachs are full, we get a message from our bodies to stop eating.  It's clear that this message often gets eclipsed.
+
+Whether the depression message gets eclipsed or not depends largely on our childhood experiences.  If we grow up in a family where depressive feelings are dealt with by getting up and getting going, then that's probably how we will respond to these feelings as adults.  But if we grow up in a situation where the depressive nudge is routinely ignored, then there's every chance that we'll continue to ignore these nudges in later life.
+
+When a person's life is characterized by strong functional routines, episodes of depression are rare, but when they occur, they are responded to in a positive manner.  But when functional routines are largely absent, and where the depression message is generally ignored, then people sink deeper into despondency.
+
+A good analogy here is our response to cold weather.  If I'm outdoors working in the yard, and it starts to get cold, my body encourages me to take some action.  So let's say I go get a jacket and continue with the job.  If it now gets a good deal colder, perhaps I'll go in and get a heavy coat, then continue work.  If the temperature continues to fall, I may simply give up and come inside.  What I'm doing here is responding appropriately to messages from my body, and it is clear that the precise nature of my responses were shaped by my earlier training and experience.  If I <i>ignore</i> the messages from my body, however, and stay outside as the temperatures falls, I become hypothermic and perhaps die.  But nobody would conclude from this that the sensation of cold is an illness!  The sensation of cold is an adaptive mechanism that encourages us to take appropriate action in response to falling temperatures.  Similarly, the sense of<strong> depression is an adaptive mechanism</strong> that <strong>encourages us towards greater functionality in our daily routines</strong>.  It is <i>not</i> an illness.
+
+* added on August 27, 2013 at the suggestion of Nadia, a reader of the blog
+
+&nbsp;

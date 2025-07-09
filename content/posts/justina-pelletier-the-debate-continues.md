@@ -1,0 +1,31 @@
+---
+title: 'Justina Pelletier: The Debate Continues'
+date: '2014-04-15T05:58:48Z'
+author: PhilHickeyPhD
+categories:
+- A Behavioral Approach to Mental Disorders
+- expansion of psychiatric turf
+- parenting
+- somatic symptom disorder
+tags: []
+---
+
+<span style="line-height: 1.5em;">On April 1, 2014, Slate published an online article titled </span><a href="http://www.slate.com/articles/health_and_science/medical_examiner/2014/04/justina_pelletier_s_mitochondrial_disease_boston_children_s_hospital_suspects.html"><i style="line-height: 1.5em;">Mitochondrial Disease or Medical Child Abuse?</i></a><span style="line-height: 1.5em;">  The author is Brian Palmer.  <a href="http://www.slate.com/articles/news_and_politics/slate_fare/2006/08/about_us.html">Slate</a> is a daily, general interest web magazine, founded in 1996, that provides "analysis and commentary about politics, news, business, technology and culture," and is a subsidiary of the Washington Post.  Brian Palmer is Slate's "chief explainer."</span>
+
+As the title suggests, the article tries to explore the central question in Justina's case:  does she have mitochondrial disease or is she a victim of medical child abuse?  The author does a good job of defining the various terms, unraveling the issues, and presenting both sides of the argument, though on balance he comes down in favor of Boston Children's Hospital.  Here are some quotes:
+<p style="padding-left: 30px;">"It’s easy to get angry about this scenario—and there are some troubling things about the way the conflict has been managed—but the doctors at Boston Children’s deserve a defense."</p>
+<p style="padding-left: 30px;">"…the science is complicated. Mitochondrial disease (Justina Pelletier’s original diagnosis) and medical child abuse (the Boston Children’s diagnosis) can look extremely similar. Both can be deadly if not treated properly."</p>
+<p style="padding-left: 30px;">"'Mito,' however, is incredibly difficult to diagnose definitively."</p>
+<p style="padding-left: 30px;">"Just as Justina Pelletier exhibited some symptoms consistent with mitochondrial disease, her case also has some of the hallmarks of medical child abuse. One of her chief complaints was digestive trouble, the most common symptom among medically abused children. She had gone through extreme surgical procedures, including the placement of a permanent port in her belly to flush her digestive tract. Her parents had engaged in physician shopping, and experts at Boston Children’s felt that Justina’s emotional state improved when her mother left the room."</p>
+<p style="padding-left: 30px;">"The doctors at Boston Children’s had few options if they really believed in their diagnosis. Just as the treatment for strep throat is antibiotics, the treatment for medical child abuse is separating a child from her parents. Sending Justina Pelletier home would have represented the height of irresponsibility if their diagnosis was correct. One in 10 children who suffers medical abuse eventually <b>dies at the hands</b> of his or her parent."</p>
+Obviously all of these issues have been debated at great length, not only in the courtrooms, but also in the mainstream media and in the blogosphere.  It is likely that these debates will continue, and will be wide-ranging.
+
+But in this post I would like to focus on just one issue.  If the "extreme surgical procedures" that Justina had undergone were an integral part of the alleged "medical child abuse," why is the surgeon who performed these procedures not being censured or charged?  Are we to believe that this surgeon performed these <i>extreme</i> procedures without valid cause or justification?  Is it plausible that he/she performed these procedures more in response to parental pressure than genuine medical need?
+
+If, as is claimed, Justina was the victim of "medical child abuse," isn't it reasonable to consider the surgeon one of the primary perpetrators?  And if not, why not?  In other forms of child abuse, aiders and abettors are routinely taken to task.  Why is <i>medical </i>child abuse different?
+
+It has been widely reported that an abnormal "congenital band" of cartilage, 20 inches long, was <a href="http://abcnews.go.com/Health/advocates-fight-teen-justin-pelletier-held-state-pysch/story?id=22312907">removed from Justina's abdomen in 2010</a>.  This indeed would constitute an "extreme surgical procedure," but the critical question is:  was it justified?  Is there a pathologist's report that casts doubt on the need for the surgery?  If not, then what is the relevance of the assertion that she had gone through "extreme surgical procedures."  It is <i>possible</i> that a surgeon might excise tissue needlessly either to boost his income or even from over-enthusiasm.  But there exists, in the form of the pathology lab, a time-tested safeguard against this sort of excess.
+
+The validity of the concept of medical child abuse in this case hinges, at least to some extent, on a history of surgical procedures which, apparently, in the <i>opinion</i> of psychiatrists were unnecessary and potentially injurious.  But, on the other side of the scale, we have a surgeon excising real tissue and subjecting this tissue, and incidentally his/her own medical judgment, to critical objective scrutiny.  A surgeon who routinely excises benign tissue, or who performs other unnecessary surgeries, will quickly incur some challenges from the hospital's Q.A. committee, the medical licensing authorities, and ultimately from malpractice trial lawyers.
+
+By contrast, <strong>the psychiatrist's <i>opinion</i> as to the necessity or appropriateness of the surgery is subjected to no objective check whatsoever</strong>.  And perhaps therein lies the answer to my earlier question.  If those psychiatrists who allege medical child abuse had to challenge the surgeons who aided and abetted the alleged abuse, it is likely that in  most cases, the surgeon's judgment would prevail, and another nail would be put in psychiatry's coffin.  It's easier by far to lay the blame on the <a href="http://www.bostonglobe.com/metro/2013/12/15/justina/vnwzbbNdiodSD7WDTh6xZI/story.html">"persistent and deceptive" parents</a> and to absolve the surgeons and other medical specialties by the blanket contention that they were duped.

@@ -1,0 +1,68 @@
+---
+title: 'Explanations:  Spurious and Valid'
+date: '2013-02-26T15:53:02Z'
+author: PhilHickeyPhD
+categories:
+- A Behavioral Approach to Mental Disorders
+- logical validity
+- myth of mental illness
+tags: []
+---
+
+One of the central themes on this website is that <strong>psychiatric diagnoses are spurious</strong> and <strong>have no explanatory value</strong>.  This contention is central to my entire argument, and for this reason I thought it might be useful to discuss the matter in some detail.  Let's start by examining what is meant by an explanation.
+
+Almost as soon as a child can talk, he begins to ask questions.  He asks why does it rain; why does grass grow; why is the sun hot; why is iron hard; why does wood float on water; why do cats eat mice; and so on. What the child is doing is trying to find meaning and system in the world which he sees and feels and tastes and hears and smells.  He is looking for explanations.  So, for instance, if a child were to ask:  "Why is iron hard?" a conscientious parent who had some scientific background might venture an explanation like this:  "Because the molecules in the iron are bound together in a way which prevents them from moving around too much.  By contrast, the molecules in soft substances, like water, are not bound as tightly, and so they move apart when you stick your finger in.  The molecules in the iron won't move apart easily – you would have to hit them with a hammer and chisel to get them apart."
+
+This is a reasonably good explanation.  However, the child might press the matter further and ask:  "<i>Why</i> are iron molecules bound together so tightly, and water molecules so loosely?"  Now this is more difficult, and the parent may have to say:  "I don't know."  I have some sympathy with this parent, because I don't know myself.  I have a vague understanding from high school chemistry that certain molecules bind more tightly than others, and if a grandchild of mine asked this question, I would mention this general point, and together we would refer to the encyclopedia to see what we could learn.
+
+The important point to note here is that the child's first question described a certain phenomenon (namely the hardness of iron), and asked for an explanation.  The explanation introduced three very fundamental scientific concepts:  firstly, that objects are composed of molecules; secondly, that the molecules are in constant motion; and thirdly, that some molecules stick to each other more tightly than others.  Of course nowadays these facts are familiar to anyone with the slightest knowledge of physics and chemistry – but not one of these statements is superficially obvious, and in fact each statement represents an important milestone in the history of science.  The child asking the original question probably is not familiar with any of these three statements.
+
+Let's assume that the child presses a little further with his questioning ("What's a molecule?" etc.) and eventually reaches a point where he has a reasonable grasp of the three statements.  He started out by asking for an explanation of a phenomenon he had observed, namely the hardness of iron.  The <i>explanation</i> of this phenomenon is a set of three statements, all of which have been verified experimentally; all of which apply to more than just iron; and all of which quite logically encompass the original phenomenon.  This third point is the crucial one:  if you understand the three statements, then you <i>understand</i> why iron is hard.  There is a <i>logical link</i> between the three statements and the hardness of iron.  <strong>It is in finding logical links that we make our world meaningful.</strong>
+
+But suppose the parent was not very knowledgeable about science.  When the child asks why is iron hard, this parent might reply: "Because it is iron; it has hardness in it."  Now on the face of it, this <i>looks</i> like an answer, an explanation, but in fact it is not.  It is simply a rewording of the original question.
+
+In the same way, "Why does my father behave in this crazy way?" is not explained by the answer:  "Because he has schizophrenia, and people with schizophrenia behave in this way."  This also <i>looks</i> like an explanation – but in fact it is not.  It is simply a rewording of the question.  The reader need only ask:  Where is the logical link?  Without a logical link, an explanation is worthless.  In traditional mental health explanations, <i>there are no logical links</i> between the items under discussion and the proffered explanations.
+
+Let's examine another phenomenon from the physical world.  Let's have our inquisitive child ask:  "Why is blood red?"  The parent responds: "Firstly, normal light from the sun or from a light bulb is really several colors all mixed up.  Secondly, different substances are made up of different kinds of molecules.  Thirdly, different molecules absorb light of different colors – they soak it up.  Fourthly, the molecules in blood soak up every color except red – they throw back the red light.  That is why blood is red."
+
+This is an excellent explanation.  All the statements are true (i.e., they are empirically verifiable).  The first three statements are perfectly general in their application.  The fourth statement shows the <strong><i>logical link</i> between the general explanatory statements and the phenomenon under discussion</strong>.
+
+It needs to be stressed that the explanations given here are not final, complete explanations.  The red blood explanation above, for instance, is not complete.  The child might well ask:  "<i>Why</i> do different kinds of molecules absorb different colored light?" or "<i>Why </i>is some light red and other light blue?"  These are very valid questions, and the process of explanation can continue to ever-increasing depths of understanding.  This is what education is all about – or ought to be.  But the explanation offered above is still a <i>good</i> explanation.  This is an important point, because I am <i>not</i> attacking traditional mental health explanations on the basis that they are <i>incomplete</i>.  I believe that all explanations are incomplete, in the sense that humanity seems unlikely to exhaust the comprehensibility of the universe – at least not in the near future.  <strong>I am attacking traditional mental health explanations because they are not explanations at all.</strong>  They are bogus explanations and ought to be discarded.
+
+Returning to our inquisitive child, let's pretend that he (or she, if you prefer) goes off by himself and ponders the red blood explanation.  If he is very, very bright, it might occur to him to wonder what color blood would be under a green or blue light.  According to the explanation, blood is red because it reflects only the red light.  Well, if you shine only green light at it, what color will it appear?  Our child-wonder covers his flashlight with a piece of green plastic, goes under his bed, and pricks his finger.  The blood seems <i>black</i>!  At first the child is puzzled, but when his parent explains to him that black is simply the absence of all color, then he can see that the explanation is vindicated.  The blood absorbed the green light and reflects nothing back – because there was no red light.  So the blood appeared black.
+
+The point here is that the explanation not only makes sense of the original phenomena, but actually has some predictive value, and points the way for further enquiry.
+
+Let's look at one more example of a good explanation.  Let's have our inquisitive child ask:  "Why do objects fall to the ground when dropped?"  The parent responds:  "Firstly, everything in the universe attracts everything else.  This force of attraction is called gravitation.  Secondly, the force of attraction is relatively weak except when the objects are very, very big – then the force of attraction can be quite strong.  Thirdly, the force of attraction gets stronger as the objects get closer together.  Fourthly, objects in the immediate vicinity of the Earth are attracted towards the Earth, and so they fall downwards when dropped."
+
+Here we have another good explanation.  The first three general statements  were formulated by Isaac Newton in the seventeenth century, and for most <i>practical</i> purposes have stood the test of time ever since.  The fourth statement follows logically from the first three.  If you accept and understand statements 1, 2 and 3, it is difficult not to accept the fourth.
+
+But notice here again that although it is a good explanation, it is not complete.  The child might ask, for instance:  "<i>Why</i> do massive objects attract other massive objects?" And the correct answer is that we don't know.
+
+This point is sometimes obscured by the kind of language we use.  Most people, if asked why objects fall to the ground, would reply:  "Because of the gravitational attraction between the object and the Earth."  This is a fine answer as far as it goes, but frequently the person giving this answer neglects to even wonder why objects should exert this kind of attractive force on one another at all.  It's easy to grow complacent, and assume that our partial explanations are in fact complete explanations.  As I mentioned earlier, there really are no complete explanations of anything.
+
+Another important point which might not be obvious is that an explanation can be a <i>good</i> explanation, in the sense that there is a good logical link between the explanatory statements and the phenomenon under discussion – but the explanatory statements could be false.  A silly example would be:
+
+"Why is grass green?"
+
+"Because the grasshoppers go about every night covering each blade with green paint."
+
+The logical link is present – but the explanation is false.  A more serious example of this kind of explanation was the phlogiston theory of fire.  According to this theory, which was accepted by men of science in the 1700's, the difference between flammable and non-flammable objects is that the flammable objects contain phlogiston. When things burn, according to this theory, the phlogiston is released – which explains why ashes are lighter in weight than the firewood which produced them.  This is a good explanation.  There is a clear logical link between the explanatory statements and the phenomenon under study.  However the explanatory statements were shown to be false, and the theory was discredited, and eventually discarded.
+
+So, for <strong>an explanation to be valid</strong>, there has to be a <strong>clear, logical link between the explanatory statements and the phenomenon in question</strong>, <i>and</i> the <strong>explanatory statements have to be true</strong>.
+
+But what has all this got to do with mental illness?  Let's consider the case of a young woman who asks:  "Why is my mother so hateful towards me?  Why doesn't she want to do things anymore?  Why does she just sit around talking so much nonsense?"
+
+The official explanation is:  "Your mother has a mental illness called schizophrenia, and these are the kinds of things that people with schizophrenia do."  Notice the similarity between this statement and an explanation of physical illness.  For instance, if the young woman had asked:  "Why can my mother not see things as well as she used to?" she might receive the following reply:  "Because she has cataracts in the lenses of her eyes, and they are obscuring her vision."  But the similarity is entirely superficial.  In the case of the cataracts, the underlying cause is known and understood – namely a "frosting" of the lens in the eye, and there exists a clear, logical link between the explanatory statement and the symptoms.  The light coming through the lens is obscured, and so forms an unclear image on the retina.
+
+The schizophrenia explanation, however - although on the surface it appears to be a good explanation - is in fact nothing of the kind.  Statements that look alike are not necessarily of the same logical type.
+
+When the mental health practitioner replies: "Because your mother has a mental illness called schizophrenia and these are the kinds of things that people with schizophrenia do," he might more honestly have said: "I don't know why your mother does these things.  However, my colleagues and I have a name for her behavior.  We call it schizophrenia."
+
+In mental health circles, psychiatrists routinely make pronouncements like "She has schizophrenia;" "He is suffering from major depression;" "She has an anxiety disorder;" etc… The staff and clients come to believe that these pronouncements have the same kind of validity and usefulness as physical diagnoses like pneumonia and diphtheria.  They further assume that the psychiatrists, because of their superior intelligence and training, actually <i>understand</i> these diagnoses.  They assume that the psychiatrists see and understand the logical links between these diagnoses and the behavioral phenomena.  The fact is that there are no logical links, but the assumption is widely made that the links are simply too difficult for most people to grasp; that the subject of mental illness is too technical and too deep for the lay mind.
+
+The fact is that when a person says something like: "She is acting crazy because she has schizophrenia," all that's being said is:  "She is acting crazy because she is acting crazy, and we call this schizophrenia."  It's not an explanation – <strong>it's just a label, and a damaging one at that</strong>.
+
+When psychiatrists present their "diagnoses" as if they were genuine explanations, "just like diabetes," they are either being very dishonest or very obtuse.
+
+&nbsp;

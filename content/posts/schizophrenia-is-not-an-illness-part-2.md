@@ -1,0 +1,37 @@
+---
+title: Schizophrenia Is Not an Illness (Part 2)
+date: '2010-02-21T09:23:32Z'
+author: PhilHickeyPhD
+categories:
+- A Behavioral Approach to Mental Disorders
+- schizophrenia
+tags: []
+---
+
+<span style="text-decoration: underline;">Delusions, contd.</span>
+
+In my last post I pointed out that schizophrenia as defined by DSM is a confusing collection of human problems with no evidence of a common etiology or indeed any valid justification for including them under a common heading.  I discussed delusions and made the point that cognitive distortions of this kind are a normal response to failure.  When the experience of failure is profound and pervasive, the delusional speech tends to be commensurately extreme.  Delusions are <em>not</em> symptomatic of an underlying illness, but rather are a normal human reaction to severe stress or profound failure, particularly in the late teens/early adulthood phase of life.  This is the time of life in which our general coping skills are subjected to their first serious tests, and when people experience profound failure at this time, there is a risk that they will drift towards delusional speech.  Onset of delusional speech is typically <a href="http://bjp.rcpsych.org/cgi/content/abstract/162/1/80">later for women</a> than men, and probably corresponds with the process of giving birth and caring for small children.  The potential for strong feelings of failure is high at this point of life also.
+
+Although delusional speech emerges most often in late adolescence and early adulthood, it is obvious that feelings of profound failure can occur at any age and can precipitate delusional speech.  In the previous post I listed some of the skills that might be lacking in individuals who fail in this way and the question naturally arises as to why some people develop these skills without apparent effort while others do not.  The answers of course are as varied and diverse as human life itself.  As parents we try to teach our children how to cope with life and its various vicissitudes, but this ongoing process of teaching doesn’t always go smoothly.  Death and other forms of tragedy assail all families at some time, and these experiences can disrupt the normal day-to-day teaching/training of the children.  Even in normal times, parents are sometimes overly protective and in particular try to protect their growing children from the experience of failure.  But it is only in dealing with the small day-to-day failures of childhood that we learn to cope with major failures later on.  Realistic critical self-appraisal is an important component of success in almost all walks of life – indeed in the very business of life itself, but it is only acquired through helping and encouraging the child to reflect constructively on adverse events.  The overly protective parent who shelters his/her child from these kinds of situations unwittingly denies him the opportunity to learn from his particular mistakes and to learn how to cope with mistakes generally.
+
+The bio-psychiatric school, of course, claims that the behavior labeled “schizophrenia” is caused by a brain disease, and they vehemently repudiate any attempt to link these behaviors to early family experiences.  In my view, the notion that “schizophrenic” behavior is not rooted in childhood learning experience simply flies in the face of common sense and an abundance of evidence (<a href="http://psycnet.apa.org/?fa=main.doiLanding&amp;uid=1992-31329-001">Dozier et al</a>), (<a href="http://www.richardatkins.co.uk/atws/document/226.html">Mickelson et al</a>).  Most of us as parents do our best to raise our children to be strong, healthy, resourceful adults.  But it is naïve to imagine that this <em>desire</em> to do the right thing always translates into <em>actual</em> successful training.  There are many obstacles to be overcome.  Sometimes we simply don’t know what is the right course of action.  Other times we are too busy with work or too engrossed with pressing problems to recognize the child’s need.  And tragically, of course, there is the significant number of cases when the child is being <a href="http://schizophreniabulletin.oxfordjournals.org/cgi/content/abstract/23/4/685">blatantly abused</a> at home, bullied at school, or victimized in some other way.  Poverty also takes a toll, in that parents who are pre-occupied with financial hardship are often unable to devote as much time and energy to childrearing as they might like.
+
+In short, there are many forces that militate against the child’s acquisition of the skills he/she needs to cope with adult life, and in particular to cope with the experience of failure.  Telling parents the palliative falsehood that their child’s delusional speech is the result of a brain disease and has nothing to do with his/her childhood experiences is nothing short of insulting.
+
+Delusional speech arises directly from the experience of failure – from the individual’s misguided attempt to deflect the blame for this failure onto others.  And he does this because he has not acquired the skill of accepting and processing the experience of failure in a more rational and productive manner.  This kind of speech is then maintained by the attention and various other benefits that it attracts.  For instance, in most developed countries it can form the basis for a disability income.  In regard to the latter, it is worth noting that people with delusional speech in underdeveloped countries recover much more quickly than is the case in the developed world.
+
+The best way to help a person who habitually speaks delusionally is
+<ol>
+	<li>Ignore      the delusional speech.</li>
+	<li>Pay      attention to sensible speech.</li>
+	<li>Encourage other instances of cogency and common sense.</li>
+	<li>Identify      skill deficits. (The list in the previous post would be a good starting      point.)</li>
+	<li>Teach/coach      the needed skills.</li>
+	<li>Be      patient</li>
+	<li>Help      the person find some measure of success, initially perhaps in small matters,      but as skills develop, in more substantive areas.</li>
+	<li>Remember      that the skill deficits in question are ones that most of us take for      granted (e.g. social interactions) but are extraordinarily taxing for the      individuals concerned.</li>
+	<li>Remember      that delusional speech and “ordinary” speech are on a continuum.  There is often a measure of cogency in      delusional speech and a measure of nonsense in “ordinary” speech.</li>
+</ol>
+The brain is a pattern-seeking machine.  It searches for meaning and regularity in the vast array of data presented to it by the senses.  When a young person experiences profound failure within a social ethos in which failure is routinely condemned and censured, he has two options.  He can acknowledge his skill deficits or he can search for an alternative explanation for the failure.  The brain simply needs to make sense of what has happened/is happening and it is a small step to thoughts like “They’re out to get me,” or “I have special status that they don’t understand”, etc..
+
+Next post:  <a href="https://www.behaviorismandmentalhealth.com/2010/03/20/schizophrenia-is-not-an-illness-part-3/">Schizophrenia is not an illness, Part 3</a>

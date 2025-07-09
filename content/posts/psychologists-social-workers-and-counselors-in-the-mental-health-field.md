@@ -1,0 +1,22 @@
+---
+title: Psychologists, Social Workers, and Counselors in the Mental Health Field
+date: '2009-03-19T15:21:35Z'
+author: PhilHickeyPhD
+categories:
+- A Behavioral Approach to Mental Disorders
+tags: []
+---
+
+Although psychiatrists are the primary and most influential players in the mental health business, they are not the only professionals involved. Most agencies also employ psychologists, social workers, and counselors, and it is important to recognize how the developments of recent decades have impacted their roles also.
+
+Psychologists are licensed professionals who have obtained a psychology degree at a doctorate level.  They have no medical training. They work in a wide range of settings, including industry and education. Psychologists became involved in mental health work largely because they were instrumental in the development of psychological tests, and the numbers of psychologists employed by hospitals and out-patient agencies increased fairly steadily through the second half of the twentieth century. Despite this apparent acceptance, however, there has always been a measure of tension between the psychiatrists and the psychologists. Some of this derives from conflicting ideologies, but a good deal of it is driven by simple rivalry and competitiveness, and by considerations of “who’s in charge.” Psychiatrists have consistently attempted to relegate the psychologists to an assistant or underling role, whilst the psychologists have striven for independent status. These tensions continue to this day, and in fact have gained a measure of prominence as psychologists lobby vigorously for prescription rights against the vehement opposition of the psychiatrists.
+
+It is particularly noteworthy, however, that despite these long-standing rivalries, most psychologists working in the mental health field accept, use, and endorse the APA’s diagnostic manual. New candidates to the profession are required to be very familiar with the manual’s content, and the national psychologist licensing examination always contains a large number of questions based directly on DSM material. Psychologists’ acceptance of DSM is driven primarily, of course, by economics. Thanks largely to intensive lobbying over many decades by the psychiatrists, the diagnostic system is recognized by Medicare and by the private insurance companies, and if psychologists want to be reimbursed for their services by these payers, they must use the same system.
+
+Clinical social workers and counselors are in essentially the same position, and despite any ideological objections they might have to DSM, if they wish to make a living in the mental health field, they must also endorse and use the DSM labels and categories. Economics makes cowards of us all.
+
+Many psychologists, social workers, and counselors attempt to rationalize and justify this activity as a mere bureaucratic necessity. The diagnosis, it is argued, is just something that needs to be written on the billing form, and that, within the context of treatment, they continue to follow their principles and to do what they think is right.
+
+There is merit to this argument, of course, but it does not override the fact that when they sign their bills, they are certifying that the client has a mental disorder, and they are lending their support to the spurious notion that mental disorders are the underlying cause of human problems and have reached epidemic proportions in our society. An interesting but important point in this area is that in a great many cases, the client is not informed that he has been assigned a mental disorder diagnosis. A person might seek help from a psychologist or counselor because he is feeling overwhelmed by stress at home or work. He goes along for five or six sessions, talks out his problems, feels better, and is pleased to learn that his insurance company picked up eighty percent of the tab. What he may not realize is that his insurance company paid the bill on the basis of the assigned diagnosis, and that this mental disorder diagnosis now constitutes a part of his insurance record. He has also joined the ranks of the <a href="http://profiles.nlm.nih.gov/ps/access/NNBBHS.pdf">"one fifth of the population”</a> cited in the earlier government statistics.
+
+Next Post: <a href="https://www.behaviorismandmentalhealth.com/2009/03/25/how-can-they-just-invent-illnesses/">How can they just <em>invent</em> illnesses?</a>
