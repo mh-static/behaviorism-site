@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Autism on Behaviorism and Mental Health</title>
-    <link>http://localhost:1313/categories/autism/</link>
+    <link>https://behaviorismandmentalhealth.com/categories/autism/</link>
     <description>Recent content in Autism on Behaviorism and Mental Health</description>
     <generator>Hugo -- 0.146.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Jun 2013 05:55:21 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/autism/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://behaviorismandmentalhealth.com/categories/autism/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Autism Prevalence Increase Questioned</title>
-      <link>http://localhost:1313/posts/autism-prevalence-increase-questioned/</link>
+      <link>https://behaviorismandmentalhealth.com/posts/autism-prevalence-increase-questioned/</link>
       <pubDate>Sat, 15 Jun 2013 05:55:21 +0000</pubDate>
-      <guid>http://localhost:1313/posts/autism-prevalence-increase-questioned/</guid>
+      <guid>https://behaviorismandmentalhealth.com/posts/autism-prevalence-increase-questioned/</guid>
       <description>&lt;p&gt;BACKGROUND&lt;/p&gt;
 &lt;p&gt;A couple of days ago (June 12) I posted &lt;i&gt;&lt;a href=&#34;https://www.behaviorismandmentalhealth.com/2013/06/12/autism-prevalence-increasing/&#34;&gt;Autism Prevalence Increasing&lt;/a&gt;.&lt;/i&gt;  The article drew attention to a post by Kelly Brogan, MD, called &lt;i&gt;See No Evil, Hear No Evil&lt;/i&gt; which had appeared on Mad in America on June 9.  Dr. Brogan&amp;rsquo;s article had cited an alarming increase in the incidence of autism over the past few decades, and mentioned some possible causative factors.&lt;/p&gt;
 &lt;p&gt;I checked the figures against the DSM and CDC prevalence estimates and found they were broadly in line.  I mentioned the possibility that diagnostic expansion, particularly as embracing milder presentations, might be a confounding factor, but that given the reported increase (1 in 5000 to 100 in 5000) over 38 years, I expressed the view that this was a bit of a stretch.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Autism Prevalence Increasing</title>
-      <link>http://localhost:1313/posts/autism-prevalence-increasing/</link>
+      <link>https://behaviorismandmentalhealth.com/posts/autism-prevalence-increasing/</link>
       <pubDate>Wed, 12 Jun 2013 06:05:18 +0000</pubDate>
-      <guid>http://localhost:1313/posts/autism-prevalence-increasing/</guid>
+      <guid>https://behaviorismandmentalhealth.com/posts/autism-prevalence-increasing/</guid>
       <description>&lt;p&gt;On two occasions in the past week or so, I have been involved in discussions on the increasing prevalence of autism.  In the more recent of these, the individual with whom I was talking expressed the concern that the recent DSM enlargement of &lt;i&gt;autism disorder&lt;/i&gt; to &lt;i&gt;autism spectrum disorder&lt;/i&gt; might be an APA-pharma designed artifact to draw attention away from the steady increase in the incidence of autism in recent decades.&lt;/p&gt;</description>
     </item>
   </channel>
