@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mind on Behaviorism and Mental Health</title>
+    <link>http://localhost:1313/tags/mind/</link>
+    <description>Recent content in Mind on Behaviorism and Mental Health</description>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Nov 2010 11:51:09 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/mind/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mental Illness:  The History of a Mistake</title>
+      <link>http://localhost:1313/posts/mental-illness-the-history-of-a-mistake/</link>
+      <pubDate>Wed, 17 Nov 2010 11:51:09 +0000</pubDate>
+      <guid>http://localhost:1313/posts/mental-illness-the-history-of-a-mistake/</guid>
+      <description>&lt;p&gt;The human brain is a pattern-seeking machine.  Because of his brain, man strives to understand the world around him and uses this understanding to improve his lot.  The brain looks for patterns and explanations.  Our ancestors, for instance, discovered that certain rocks, through processing in certain ways, could be shaped to make sharp tools which they used to great advantage.  Later it was discovered that other rocks when heated in certain ways produced iron. And so on.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
