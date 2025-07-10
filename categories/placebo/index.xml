@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Placebo on Behaviorism and Mental Health</title>
-    <link>https://behaviorismandmentalhealth.com/categories/placebo/</link>
+    <link>http://localhost:1313/categories/placebo/</link>
     <description>Recent content in Placebo on Behaviorism and Mental Health</description>
     <generator>Hugo -- 0.146.0</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 19 Jan 2015 05:30:50 +0000</lastBuildDate>
-    <atom:link href="https://behaviorismandmentalhealth.com/categories/placebo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/placebo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Exploiting the Placebo Effect:  Legitimate Practice or Chicanery?</title>
-      <link>https://behaviorismandmentalhealth.com/posts/exploiting-the-placebo-effect-legitimate-practice-or-chicanery/</link>
+      <link>http://localhost:1313/posts/exploiting-the-placebo-effect-legitimate-practice-or-chicanery/</link>
       <pubDate>Mon, 19 Jan 2015 05:30:50 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/exploiting-the-placebo-effect-legitimate-practice-or-chicanery/</guid>
+      <guid>http://localhost:1313/posts/exploiting-the-placebo-effect-legitimate-practice-or-chicanery/</guid>
       <description>&lt;p&gt;On June 13, 2014, Psychiatric Times published an article by Steve Balt, MD.  The article is titled &lt;em&gt;&lt;a href=&#34;http://www.psychiatrictimes.com/psychopharmacology/assessing-and-enhancing-effectiveness-antidepressants&#34;&gt;Assessing and Enhancing the Effectiveness of Antidepressants&lt;/a&gt;,&lt;/em&gt; and is a good deal more candid as to the efficacy of antidepressants than one normally encounters from psychiatry.  Dr. Balt is a private practice psychiatrist in California.  He is the editor-in-chief of The Carlat Psychiatry Report.&lt;/p&gt;
 &lt;p&gt;The article opens with the observation that despite the large number of antidepressants on the market, and decades of clinical experience, no particular product seems to have emerged as substantially better than the rest.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mood Disorders and Stem Cells</title>
-      <link>https://behaviorismandmentalhealth.com/posts/mood-disorders-and-stem-cells/</link>
+      <link>http://localhost:1313/posts/mood-disorders-and-stem-cells/</link>
       <pubDate>Fri, 26 Apr 2013 15:23:06 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/mood-disorders-and-stem-cells/</guid>
+      <guid>http://localhost:1313/posts/mood-disorders-and-stem-cells/</guid>
       <description>&lt;p&gt;Thank you to &lt;a href=&#34;https://twitter.com/TallaTrialogue&#34;&gt;Tallaght Trialogue&lt;/a&gt; for drawing my attention to Blue Horizon Stem Cells (you can see their website &lt;a href=&#34;http://bluehorizonstemcells.com/&#34;&gt;here&lt;/a&gt;) and a recent article they&amp;rsquo;ve written titled &lt;i&gt;Mood Disorder &lt;/i&gt;(&lt;a href=&#34;http://bluehorizonstemcells.com/stem-cell-treatments/mood-disorder/&#34;&gt;here&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;The article contains a very brief discussion of the term mood disorder, including a mention of &amp;ldquo;major depressive disorder&amp;rdquo; and &amp;ldquo;bipolar disorder.&amp;rdquo;  It then goes on to say:&lt;/p&gt;
 &lt;p style=&#34;padding-left: 30px;&#34;&gt;&#34;To find out more about how you may benefit from stem cell therapy, please complete our Contact Us form and one of our physicians will reach out to you for a private consultation.&#34;&lt;/p&gt;</description>
     </item>
     <item>
       <title>More about Antidepressants and Placebos</title>
-      <link>https://behaviorismandmentalhealth.com/posts/more-about-antidepressants-and-placebos/</link>
+      <link>http://localhost:1313/posts/more-about-antidepressants-and-placebos/</link>
       <pubDate>Mon, 27 Feb 2012 10:39:26 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/more-about-antidepressants-and-placebos/</guid>
+      <guid>http://localhost:1313/posts/more-about-antidepressants-and-placebos/</guid>
       <description>&lt;p&gt;The debate is over.  Antidepressants are only very marginally more effective than placebos.  And yet the “depression-is-an-illness” lobby continues to grasp for straws.&lt;/p&gt;
 &lt;p&gt;Fiona Godlee, editor of the British Medical Journal, recently cited “evidence” of the efficacy of antidepressants.  For a &lt;a href=&#34;http://criticalpsychiatry.blogspot.com/2012/02/everybody-has-won-and-all-must-have.html&#34;&gt;critique&lt;/a&gt; of the Godlee article go to Duncan Double’s website “&lt;a href=&#34;http://criticalpsychiatry.blogspot.com/&#34;&gt;Critical Psychiatry&lt;/a&gt;.”&lt;/p&gt;
 &lt;p&gt;Surprise finding! - Antidepressants are only very marginally more effective than placebos.&lt;/p&gt;
@@ -37,9 +37,9 @@
     </item>
     <item>
       <title>Drugs, Placebos, and Life</title>
-      <link>https://behaviorismandmentalhealth.com/posts/drugs-placebos-and-life/</link>
+      <link>http://localhost:1313/posts/drugs-placebos-and-life/</link>
       <pubDate>Mon, 23 Aug 2010 18:53:17 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/drugs-placebos-and-life/</guid>
+      <guid>http://localhost:1313/posts/drugs-placebos-and-life/</guid>
       <description>&lt;p&gt;I have recently read a very interesting book by Irving Kirsch, PhD.  It’s called &lt;i&gt;The Emperor’s New Drugs&lt;/i&gt;, and the central theme of the work is that antidepressants are only very slightly more effective than placebos (i.e. sugar pills), and that the difference is not clinically significant.&lt;/p&gt;
 &lt;p&gt;The logic is cogent and the research is rigorous.  Read the book and decide for yourself.&lt;/p&gt;
 &lt;p&gt;Dr. Kirsch argues in favor of psychotherapy as a substitute for pills.  And certainly talking is usually helpful.  However, as long as depression is conceptualized as an illness, I don’t believe we will see real progress in this field.&lt;/p&gt;</description>

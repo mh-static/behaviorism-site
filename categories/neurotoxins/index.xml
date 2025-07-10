@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Neurotoxins on Behaviorism and Mental Health</title>
-    <link>https://behaviorismandmentalhealth.com/categories/neurotoxins/</link>
+    <link>http://localhost:1313/categories/neurotoxins/</link>
     <description>Recent content in Neurotoxins on Behaviorism and Mental Health</description>
     <generator>Hugo -- 0.146.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 21 Apr 2013 14:40:14 +0000</lastBuildDate>
-    <atom:link href="https://behaviorismandmentalhealth.com/categories/neurotoxins/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/neurotoxins/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Power of Words to Shape Attitudes</title>
-      <link>https://behaviorismandmentalhealth.com/posts/the-power-of-words-to-shape-attitudes/</link>
+      <link>http://localhost:1313/posts/the-power-of-words-to-shape-attitudes/</link>
       <pubDate>Sun, 21 Apr 2013 14:40:14 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/the-power-of-words-to-shape-attitudes/</guid>
+      <guid>http://localhost:1313/posts/the-power-of-words-to-shape-attitudes/</guid>
       <description>&lt;p&gt;I recently wrote a post called:  &lt;a href=&#34;https://www.behaviorismandmentalhealth.com/2013/04/19/do-major-tranquilizers-make-things-worse/&#34;&gt;Do Major Tranquilizers Make Things Worse?&lt;/a&gt;  The post was based on a study by Drs. Harrow and Jobe in which they speculated that the high relapse rate of &amp;ldquo;schizophrenics&amp;rdquo; who stop taking their drugs may have more to do with drug &lt;i&gt;withdrawal&lt;/i&gt; than the supposed drug efficacy.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://twitter.com/BeyondMeds&#34;&gt;Monica&lt;/a&gt;, at BeyondMeds, pointed out that these drugs should not be called tranquilizers because some of their effects (e.g. akathisia, tardive dyskinesia, etc.) are anything but tranquil.  And this, of course, is a good point.&lt;/p&gt;</description>
     </item>

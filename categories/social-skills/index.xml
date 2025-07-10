@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Social Skills on Behaviorism and Mental Health</title>
-    <link>https://behaviorismandmentalhealth.com/categories/social-skills/</link>
+    <link>http://localhost:1313/categories/social-skills/</link>
     <description>Recent content in Social Skills on Behaviorism and Mental Health</description>
     <generator>Hugo -- 0.146.0</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 06 Mar 2013 08:18:43 +0000</lastBuildDate>
-    <atom:link href="https://behaviorismandmentalhealth.com/categories/social-skills/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/social-skills/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mental Health and the Schools</title>
-      <link>https://behaviorismandmentalhealth.com/posts/mental-health-and-the-schools/</link>
+      <link>http://localhost:1313/posts/mental-health-and-the-schools/</link>
       <pubDate>Wed, 06 Mar 2013 08:18:43 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/mental-health-and-the-schools/</guid>
+      <guid>http://localhost:1313/posts/mental-health-and-the-schools/</guid>
       <description>&lt;p&gt;When I was about eleven or twelve, I had reasonably good social skills with my peers, but I was shy and awkward with adults. Our neighbor, Mrs. F., was a very pleasant lady who loved to spend time in her front yard with her flowers.  Often, as I came up the walk to our door, I would pass her.  She always gave me a nice greeting, to which I would respond by gazing at my toes and grunting.&lt;/p&gt;</description>
     </item>
   </channel>

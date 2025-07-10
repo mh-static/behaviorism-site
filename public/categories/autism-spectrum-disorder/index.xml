@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Autism Spectrum Disorder on Behaviorism and Mental Health</title>
-    <link>https://behaviorismandmentalhealth.com/categories/autism-spectrum-disorder/</link>
+    <link>http://localhost:1313/categories/autism-spectrum-disorder/</link>
     <description>Recent content in Autism Spectrum Disorder on Behaviorism and Mental Health</description>
     <generator>Hugo -- 0.146.0</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Jun 2013 06:05:18 +0000</lastBuildDate>
-    <atom:link href="https://behaviorismandmentalhealth.com/categories/autism-spectrum-disorder/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/autism-spectrum-disorder/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Autism Prevalence Increasing</title>
-      <link>https://behaviorismandmentalhealth.com/posts/autism-prevalence-increasing/</link>
+      <link>http://localhost:1313/posts/autism-prevalence-increasing/</link>
       <pubDate>Wed, 12 Jun 2013 06:05:18 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/autism-prevalence-increasing/</guid>
+      <guid>http://localhost:1313/posts/autism-prevalence-increasing/</guid>
       <description>&lt;p&gt;On two occasions in the past week or so, I have been involved in discussions on the increasing prevalence of autism.  In the more recent of these, the individual with whom I was talking expressed the concern that the recent DSM enlargement of &lt;i&gt;autism disorder&lt;/i&gt; to &lt;i&gt;autism spectrum disorder&lt;/i&gt; might be an APA-pharma designed artifact to draw attention away from the steady increase in the incidence of autism in recent decades.&lt;/p&gt;</description>
     </item>
   </channel>

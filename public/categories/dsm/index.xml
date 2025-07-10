@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>DSM on Behaviorism and Mental Health</title>
-    <link>https://behaviorismandmentalhealth.com/categories/dsm/</link>
+    <link>http://localhost:1313/categories/dsm/</link>
     <description>Recent content in DSM on Behaviorism and Mental Health</description>
     <generator>Hugo -- 0.146.0</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Apr 2020 05:30:25 +0000</lastBuildDate>
-    <atom:link href="https://behaviorismandmentalhealth.com/categories/dsm/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/dsm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Allen Frances: Still Spinning the Story</title>
-      <link>https://behaviorismandmentalhealth.com/posts/allen-frances-still-spinning-the-story/</link>
+      <link>http://localhost:1313/posts/allen-frances-still-spinning-the-story/</link>
       <pubDate>Fri, 24 Apr 2020 05:30:25 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/allen-frances-still-spinning-the-story/</guid>
+      <guid>http://localhost:1313/posts/allen-frances-still-spinning-the-story/</guid>
       <description>&lt;p&gt;On March 4, 2020, the very eminent Allen Frances, MD, published an article in Aeon, which according to its &lt;a href=&#34;https://aeon.co/about&#34;&gt;About page&lt;/a&gt; is &amp;ldquo;a digital magazine, publishing some of the most profound and provocative thinking on the web. We ask the big questions and find the freshest, most original answers, provided by leading thinkers on science, philosophy, society and the arts.&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;The article is called &lt;em&gt;&lt;a href=&#34;https://aeon.co/ideas/the-lure-of-cool-brain-research-is-stifling-psychotherapy&#34;&gt;The lure of ‘cool’ brain research is stifling psychotherapy&lt;/a&gt;&lt;/em&gt;.  The central theme is that prior to 1990, the National Institute of Mental Health (NIMH) &amp;ldquo;appreciated the need for a well-rounded approach [to mental health] and maintained a balanced research budget that covered an extraordinarily wide range of topics and techniques.&amp;rdquo;  However, since 1990, the opening year of the &lt;a href=&#34;https://en.wikipedia.org/wiki/Decade_of_the_Brain&#34;&gt;Decade of the Brain&lt;/a&gt;, the NIMH has &amp;ldquo;increasingly narrowed its focus almost exclusively to brain biology – leaving out everything else that makes us human, both in sickness and in health.&amp;rdquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Robert Spitzer&#39;s Legacy</title>
-      <link>https://behaviorismandmentalhealth.com/posts/robert-spitzer-s-legacy/</link>
+      <link>http://localhost:1313/posts/robert-spitzer-s-legacy/</link>
       <pubDate>Wed, 06 Jan 2016 05:30:16 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/robert-spitzer-s-legacy/</guid>
+      <guid>http://localhost:1313/posts/robert-spitzer-s-legacy/</guid>
       <description>&lt;p&gt;Robert Spitzer, MD, the architect of DSM-III (1980), died of heart disease on Christmas Day, 2015, at age 83.&lt;/p&gt;
 &lt;p&gt;Most major media outlets published obituaries in which Dr. Spitzer was praised on the grounds that he had brought scientific rigor to psychiatry by naming and defining the various psychiatric illnesses.&lt;/p&gt;
 &lt;p&gt;Here are a few illustrative quotes:&lt;/p&gt;
@@ -28,9 +28,9 @@
     </item>
     <item>
       <title>Intermittent Explosive Disorder:  The &#39;Illness&#39; That Goes On Growing</title>
-      <link>https://behaviorismandmentalhealth.com/posts/intermittent-explosive-disorder-the-illness-that-goes-on-growing/</link>
+      <link>http://localhost:1313/posts/intermittent-explosive-disorder-the-illness-that-goes-on-growing/</link>
       <pubDate>Tue, 04 Aug 2015 05:30:55 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/intermittent-explosive-disorder-the-illness-that-goes-on-growing/</guid>
+      <guid>http://localhost:1313/posts/intermittent-explosive-disorder-the-illness-that-goes-on-growing/</guid>
       <description>&lt;p&gt;According to the APA, intermittent explosive disorder is characterized by angry aggressive outbursts that occur in response to relatively minor provocation.&lt;/p&gt;
 &lt;p&gt;This particular label has an interesting history in successive editions of the DSM.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;DSM I  (1952)&lt;/strong&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
@@ -39,76 +39,76 @@
     </item>
     <item>
       <title>Allen Frances Saving Psychiatry From Itself?</title>
-      <link>https://behaviorismandmentalhealth.com/posts/allen-frances-saving-psychiatry-from-itself/</link>
+      <link>http://localhost:1313/posts/allen-frances-saving-psychiatry-from-itself/</link>
       <pubDate>Fri, 03 Jul 2015 05:30:50 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/allen-frances-saving-psychiatry-from-itself/</guid>
+      <guid>http://localhost:1313/posts/allen-frances-saving-psychiatry-from-itself/</guid>
       <description>&lt;p&gt;On October 12, 2014, the eminent psychiatrist Allen Frances, MD, participated in a panel discussion at the Mad In America film festival in Gothenburg, Sweden.  After the festival, he wrote an article – &lt;em&gt;&lt;a href=&#34;http://www.huffingtonpost.com/allen-frances/finding-a-middle-ground-between-psychiatry-and-anti-psychiatry_b_6010890.html&#34;&gt;Finding a Middle Ground Between Psychiatry and Anti-Psychiatry&lt;/a&gt; &lt;/em&gt;– for the Huffington Post Blog, summarizing the positions he had discussed at the festival. The article was &lt;a href=&#34;http://www.madinamerica.com/2014/10/between-psychiatry-and-anti-psychiatry-mad-in-america-opens-a-dialogue/&#34;&gt;re-published on MIA&lt;/a&gt; on October 26, 2014.&lt;/p&gt;
 &lt;p&gt;The article is ostensibly an attempt to find common ground between psychiatry and its critics, but the piece contains numerous distortions and omissions which I think need to be identified and discussed.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Allen Frances&#39; Ties to Johnson &amp; Johnson</title>
-      <link>https://behaviorismandmentalhealth.com/posts/allen-frances-ties-to-johnson-johnson/</link>
+      <link>http://localhost:1313/posts/allen-frances-ties-to-johnson-johnson/</link>
       <pubDate>Fri, 19 Jun 2015 05:30:56 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/allen-frances-ties-to-johnson-johnson/</guid>
+      <guid>http://localhost:1313/posts/allen-frances-ties-to-johnson-johnson/</guid>
       <description>&lt;p&gt;INTRODUCTION&lt;/p&gt;
 &lt;p&gt;I recently came across an article titled &lt;em&gt;&lt;a href=&#34;https://uottawa.scholarsportal.info/ottawa/index.php/aporia/article/view/3486/3195&#34;&gt;Diagnosisgate: Conflict of Interest at the Top of the Psychiatric Apparatus&lt;/a&gt;&lt;/em&gt;, by Paula Caplan, PhD.  The article was published in Aporia, the University of Ottawa nursing journal, in January 2015.  &lt;a href=&#34;http://www.oa.uottawa.ca/journals/aporia/about_aporia.jsp?lang=&#34;&gt;Aporia&lt;/a&gt; is &amp;ldquo;a peer-reviewed, bilingual, and open access journal dedicated to scholarly debates in nursing and the health sciences.&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;Dr, Caplan is a clinical and research psychologist, and an Associate at Harvard&amp;rsquo;s DuBois Institute.  She worked as a consultant to the DSM-IV task force in the 1980&amp;rsquo;s, but resigned from this position after two years.    Here&amp;rsquo;s a quote from her February 2014 post on Mad in America &lt;em&gt;&lt;a href=&#34;http://www.madinamerica.com/2014/02/great-crazy-cover-harm-results-rewriting-history-dsm/&#34;&gt;The Great “Crazy” Cover-up: Harm Results from Rewriting the History of DSM&lt;/a&gt;&lt;/em&gt;:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Allen Frances and the Spurious Medicalization of Everyday Problems</title>
-      <link>https://behaviorismandmentalhealth.com/posts/allen-frances-and-the-spurious-medicalization-of-everyday-problems/</link>
+      <link>http://localhost:1313/posts/allen-frances-and-the-spurious-medicalization-of-everyday-problems/</link>
       <pubDate>Tue, 21 Apr 2015 05:30:38 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/allen-frances-and-the-spurious-medicalization-of-everyday-problems/</guid>
+      <guid>http://localhost:1313/posts/allen-frances-and-the-spurious-medicalization-of-everyday-problems/</guid>
       <description>&lt;p&gt;On April 5, Allen Frances MD, published an article on the Huffington Post blog.  The title is &lt;em&gt;&lt;a href=&#34;http://www.huffingtonpost.com/allen-frances/can-we-replace-misleading-terms-like-mental-illness-patient-schizophrenia_b_7000762.html&#34;&gt;Can We Replace Misleading Terms Like &amp;lsquo;Mental Illness,&amp;rsquo; &amp;lsquo;Patient,&amp;rsquo; and &amp;lsquo;Schizophrenia&amp;rsquo;&lt;/a&gt;&lt;/em&gt;  It&amp;rsquo;s an interesting piece, and it raises some fundamental issues.&lt;/p&gt;
 &lt;p&gt;Here are some quotes from the article, interspersed with my comments.&lt;/p&gt;
 &lt;p style=&#34;padding-left: 30px;&#34;&gt;&#34;Those of us who worked on DSM IV learned first-hand and painfully the limitations of the written word and how it can be tortured and twisted in damaging daily usage, especially when there is a profit to be had.&#34;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Psychiatric Diagnoses:  Labels, Not Explanations</title>
-      <link>https://behaviorismandmentalhealth.com/posts/psychiatric-diagnoses-labels-not-explanations/</link>
+      <link>http://localhost:1313/posts/psychiatric-diagnoses-labels-not-explanations/</link>
       <pubDate>Thu, 02 Apr 2015 05:30:26 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/psychiatric-diagnoses-labels-not-explanations/</guid>
+      <guid>http://localhost:1313/posts/psychiatric-diagnoses-labels-not-explanations/</guid>
       <description>&lt;p&gt;On March 16, Ronald Pies, MD, published an article in the Psychiatric Times.  The article is titled &lt;em&gt;&lt;a href=&#34;http://www.psychiatrictimes.com/blogs/couch-crisis/war-psychiatric-diagnosis&#34;&gt;The War on Psychiatric Diagnosis&lt;/a&gt;,&lt;/em&gt; and the sub-title synopsis on the pdf version reads:  &amp;ldquo;A recent report that argues against descriptive diagnosis in medicine is historically ill-informed and medically naive, in the opinion of this psychiatrist.&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;Dr. Pies is a very prestigious and eminent psychiatrist.  He is a professor of psychiatry at both Syracuse and Tufts.  He was the first editor of Psychiatric Times, which, by its &lt;a href=&#34;http://www.psychiatrictimes.com/contribute-site&#34;&gt;own account&lt;/a&gt;, provides &amp;ldquo;News, Special Reports, and clinical content related to psychiatry&amp;rdquo; for &amp;ldquo;…psychiatrists and allied mental health professionals who treat mental disorders…Circulation of the monthly print publication is approximately 40,000.&amp;rdquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Psychiatry Is Not Based On Valid Science</title>
-      <link>https://behaviorismandmentalhealth.com/posts/psychiatry-is-not-based-on-valid-science/</link>
+      <link>http://localhost:1313/posts/psychiatry-is-not-based-on-valid-science/</link>
       <pubDate>Thu, 09 Jan 2014 05:58:12 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/psychiatry-is-not-based-on-valid-science/</guid>
+      <guid>http://localhost:1313/posts/psychiatry-is-not-based-on-valid-science/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;line-height: 1.5em;&#34;&gt;BACKGROUND&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;On December 23, I wrote a post called &lt;a href=&#34;https://www.behaviorismandmentalhealth.com/2013/12/23/dsm-5-dimensional-diagnoses-more-conflicts-of-interest/&#34;&gt;&lt;em&gt;DSM-5 - Dimensional Diagnoses - More Conflicts of Interest?&lt;/em&gt;&lt;/a&gt;  In the article I sketched out the role of David Kupfer, MD, in promoting the concept of dimensional assessment in DSM-5, and I speculated that at least part of his motivation in this regard might have stemmed from the fact that he is a major shareholder in a company that is developing a computerized assessment instrument.  I ended the piece with a general criticism of psychiatry:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Invalidity:  The Nature of Psychiatry</title>
-      <link>https://behaviorismandmentalhealth.com/posts/invalidity-the-nature-of-psychiatry/</link>
+      <link>http://localhost:1313/posts/invalidity-the-nature-of-psychiatry/</link>
       <pubDate>Tue, 25 Jun 2013 01:08:43 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/invalidity-the-nature-of-psychiatry/</guid>
+      <guid>http://localhost:1313/posts/invalidity-the-nature-of-psychiatry/</guid>
       <description>&lt;p&gt;There&amp;rsquo;s an interesting post from Duncan Double, MD titled &lt;a href=&#34;http://criticalpsychiatry.blogspot.com/2013/06/why-does-apa-need-new-editions-of-dsm.html&#34;&gt;&lt;i&gt;Why does the APA need new editions of DSM?&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Dr. Double is a psychiatrist and a member of the Critical Psychiatry Network.  In his current article, Dr. Double expresses the hope that there won&amp;rsquo;t be a DSM-6, essentially on the grounds that &lt;strong&gt;none of the revisions up to this time has resulted in any increase in validity. &lt;/strong&gt; So each revision, in effect, replaces an invalid &lt;i&gt;old&lt;/i&gt; manual with an invalid &lt;i&gt;new&lt;/i&gt; one.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Autism Prevalence Increase Questioned</title>
-      <link>https://behaviorismandmentalhealth.com/posts/autism-prevalence-increase-questioned/</link>
+      <link>http://localhost:1313/posts/autism-prevalence-increase-questioned/</link>
       <pubDate>Sat, 15 Jun 2013 05:55:21 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/autism-prevalence-increase-questioned/</guid>
+      <guid>http://localhost:1313/posts/autism-prevalence-increase-questioned/</guid>
       <description>&lt;p&gt;BACKGROUND&lt;/p&gt;
 &lt;p&gt;A couple of days ago (June 12) I posted &lt;i&gt;&lt;a href=&#34;https://www.behaviorismandmentalhealth.com/2013/06/12/autism-prevalence-increasing/&#34;&gt;Autism Prevalence Increasing&lt;/a&gt;.&lt;/i&gt;  The article drew attention to a post by Kelly Brogan, MD, called &lt;i&gt;See No Evil, Hear No Evil&lt;/i&gt; which had appeared on Mad in America on June 9.  Dr. Brogan&amp;rsquo;s article had cited an alarming increase in the incidence of autism over the past few decades, and mentioned some possible causative factors.&lt;/p&gt;
 &lt;p&gt;I checked the figures against the DSM and CDC prevalence estimates and found they were broadly in line.  I mentioned the possibility that diagnostic expansion, particularly as embracing milder presentations, might be a confounding factor, but that given the reported increase (1 in 5000 to 100 in 5000) over 38 years, I expressed the view that this was a bit of a stretch.&lt;/p&gt;</description>
     </item>
     <item>
       <title>An Alternative to DSM</title>
-      <link>https://behaviorismandmentalhealth.com/posts/an-alternative-to-dsm/</link>
+      <link>http://localhost:1313/posts/an-alternative-to-dsm/</link>
       <pubDate>Thu, 13 Jun 2013 05:58:26 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/an-alternative-to-dsm/</guid>
+      <guid>http://localhost:1313/posts/an-alternative-to-dsm/</guid>
       <description>&lt;p&gt;Last month (May 31), National Public Radio (NPR) ran an interview on Science Friday with Thomas Insel, MD, Director of NIMH, Jeffrey Lieberman, MD, President of the APA, and Gary Greenberg, PhD, practicing psychotherapist.&lt;/p&gt;
 &lt;p&gt;I didn&amp;rsquo;t hear the interview, but I have read the &lt;a href=&#34;http://m.npr.org/news/Health/187534467&#34;&gt;transcript&lt;/a&gt;.  Doctors Insel and Lieberman were spinning the barrage of criticism directed at psychiatry in recent months, while at the same time clinging desperately to the notion that the problems that psychiatrists &amp;ldquo;treat&amp;rdquo; are real illnesses.  It&amp;rsquo;s become a familiar theme, and there was nothing new.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Kinderman-Pies Debate</title>
-      <link>https://behaviorismandmentalhealth.com/posts/the-kinderman-pies-debate/</link>
+      <link>http://localhost:1313/posts/the-kinderman-pies-debate/</link>
       <pubDate>Wed, 05 Jun 2013 08:30:33 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/the-kinderman-pies-debate/</guid>
+      <guid>http://localhost:1313/posts/the-kinderman-pies-debate/</guid>
       <description>&lt;p&gt;BACKGROUND&lt;/p&gt;
 &lt;p&gt;On May 15, Peter Kinderman, PhD, of the University of Liverpool, posted an article on DxSummit.org.  It was called &lt;a href=&#34;http://dxsummit.org/archives/197&#34;&gt;&lt;i&gt;So…What Happens Next?&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The gist of the article was that psychiatric &amp;ldquo;diagnoses&amp;rdquo; are conceptually spurious, unhelpful, and even hindersome in practice, and discourage practitioners from pursuing genuine explanations for the problems clients bring to their attention.&lt;/p&gt;
@@ -116,41 +116,41 @@
     </item>
     <item>
       <title>Live Video Chat: DSM-5</title>
-      <link>https://behaviorismandmentalhealth.com/posts/live-video-chat-dsm-5/</link>
+      <link>http://localhost:1313/posts/live-video-chat-dsm-5/</link>
       <pubDate>Tue, 21 May 2013 08:51:39 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/live-video-chat-dsm-5/</guid>
+      <guid>http://localhost:1313/posts/live-video-chat-dsm-5/</guid>
       <description>&lt;p&gt;Today I received the following email from Emily Underwood, a reporter with Science Magazine.&lt;/p&gt;
 &lt;p style=&#34;padding-left: 30px;&#34;&gt;I am a reporter with Science magazine -- after reading your Twitter feed and blog I thought you might be interested in a live video chat I’m hosting this week on the controversy surrounding the DSM V. My guests are Allen Frances of Duke University, William Eaton of Johns Hopkins University, and Frank Farley of Temple University; given their different takes on the subject it promises to be a lively conversation!&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Problem with DSM</title>
-      <link>https://behaviorismandmentalhealth.com/posts/the-problem-with-dsm/</link>
+      <link>http://localhost:1313/posts/the-problem-with-dsm/</link>
       <pubDate>Fri, 17 May 2013 08:45:03 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/the-problem-with-dsm/</guid>
+      <guid>http://localhost:1313/posts/the-problem-with-dsm/</guid>
       <description>&lt;p&gt;There&amp;rsquo;s an interesting article in the NY Times Sunday review.  You can see it &lt;a href=&#34;http://www.nytimes.com/2013/05/12/opinion/sunday/why-the-fuss-over-the-dsm-5.html?_r=1&amp;amp;&#34;&gt;here&lt;/a&gt;.  It was written by Sally Satel MD, a psychiatrist, currently a resident scholar at the American Enterprise Institute.&lt;/p&gt;
 &lt;p&gt;The article is called:  &amp;ldquo;Why the Fuss Over the DSM-5?&amp;rdquo;  Dr. Satel&amp;rsquo;s central point is that psychiatrists only treat &lt;i&gt;symptoms&lt;/i&gt; anyway and pay little attention to the DSM.  She expresses the belief that the manual&amp;rsquo;s diagnoses are &amp;ldquo;…passports to insurance coverage, the keys to special education and behavioral services in school and the tickets to disability benefits.&amp;rdquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dr. Insel Changes His Mind</title>
-      <link>https://behaviorismandmentalhealth.com/posts/dr-insel-changes-his-mind/</link>
+      <link>http://localhost:1313/posts/dr-insel-changes-his-mind/</link>
       <pubDate>Wed, 15 May 2013 14:33:47 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/dr-insel-changes-his-mind/</guid>
+      <guid>http://localhost:1313/posts/dr-insel-changes-his-mind/</guid>
       <description>&lt;p&gt;Well, as I guess everybody knows by now, Dr. Insel has changed his mind.  On April 29, he stated that the weakness of DSM &amp;ldquo;…is its lack of validity.&amp;rdquo;  He went on to express the view that his agency, NIMH, (the US government&amp;rsquo;s mental health research arm) &amp;ldquo;…cannot succeed if we use DSM categories…&amp;rdquo;  You can see his full statement &lt;a href=&#34;http://www.nimh.nih.gov/about/director/2013/transforming-diagnosis.shtml&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;This statement was widely interpreted as a significant rift between NIMH and the APA.  But apparently they&amp;rsquo;ve made up their differences and are pals again.  On May 13, just two weeks after his divorce statement, Dr. Insel and Dr. Lieberman, APA president elect, have issued a &lt;a href=&#34;http://www.nimh.nih.gov/news/science-news/2013/dsm-5-and-rdoc-shared-interests.shtml?utm_source=rss_readers&amp;amp;utm_medium=rss&amp;amp;utm_campaign=rss_summary&#34;&gt;joint statement&lt;/a&gt; in which they express the belief that the DSM &amp;ldquo;…represents the best information currently available for clinical diagnosis of mental disorders.&amp;rdquo;  Patients, families and insurers, we are told, &amp;ldquo;…can be confident that effective treatments are available and that the DSM is the key resource for delivering the best available care.&amp;rdquo;  It&amp;rsquo;s hard to believe that this is the same DSM that he earlier criticized as &lt;i&gt;lacking validity!&lt;/i&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Empire Strikes Back:  APA Responds to NIMH</title>
-      <link>https://behaviorismandmentalhealth.com/posts/the-empire-strikes-back-apa-responds-to-nimh/</link>
+      <link>http://localhost:1313/posts/the-empire-strikes-back-apa-responds-to-nimh/</link>
       <pubDate>Mon, 13 May 2013 09:16:59 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/the-empire-strikes-back-apa-responds-to-nimh/</guid>
+      <guid>http://localhost:1313/posts/the-empire-strikes-back-apa-responds-to-nimh/</guid>
       <description>&lt;p&gt;BACKGROUND&lt;/p&gt;
 &lt;p&gt;On May 3, 2013, David Kupfer MD (DSM-5 Task Force Chair) responded to Thomas Insel&amp;rsquo;s April 29&lt;sup&gt;th&lt;/sup&gt; unequivocal attack on the validity and usefulness of DSM.  You can see Dr. Kupfer&amp;rsquo;s response &lt;a href=&#34;http://www.madinamerica.com/wp-content/uploads/2013/05/Statement-from-dsm-chair-david-kupfer-md.pdf&#34;&gt;here&lt;/a&gt;.  Essentially Dr. Insel said that the categories set out in the DSM did not correspond to anything in the real world, and that NIMH would no longer be using these categories as the basis for their research program.  This statement did not, however, represent any significant movement away from the biomedical model on the part of NIMH.  In fact, if anything, it was a movement towards an even &lt;i&gt;more&lt;/i&gt; &lt;i&gt;deeply entrenched&lt;/i&gt; medical model.  But it was a huge hit on DSM and on the APA, who tout the catalog as the basis to their claim to scientific credibility.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mental Distress Is Not An Illness</title>
-      <link>https://behaviorismandmentalhealth.com/posts/mental-distress-is-not-an-illness/</link>
+      <link>http://localhost:1313/posts/mental-distress-is-not-an-illness/</link>
       <pubDate>Tue, 07 May 2013 06:29:35 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/mental-distress-is-not-an-illness/</guid>
+      <guid>http://localhost:1313/posts/mental-distress-is-not-an-illness/</guid>
       <description>&lt;p&gt;BACKGROUND&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://twitter.com/uilleannair&#34;&gt;Sam Thompson&lt;/a&gt; (University of Liverpool) posted the following tweet on April 27:&lt;/p&gt;
 &lt;p style=&#34;padding-left: 30px;&#34;&gt;Can anyone point me to a good, succinct summary of the case for equating mental distress with illness?  (serious, non-sarcastic question)&lt;/p&gt;
@@ -159,9 +159,9 @@ On the face of it, this looks like a straightforward question, and one might thi
     </item>
     <item>
       <title>Transforming Diagnosis:  The Thomas Insel Article</title>
-      <link>https://behaviorismandmentalhealth.com/posts/transforming-diagnosis-the-thomas-insel-article/</link>
+      <link>http://localhost:1313/posts/transforming-diagnosis-the-thomas-insel-article/</link>
       <pubDate>Sun, 05 May 2013 21:06:21 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/transforming-diagnosis-the-thomas-insel-article/</guid>
+      <guid>http://localhost:1313/posts/transforming-diagnosis-the-thomas-insel-article/</guid>
       <description>&lt;p&gt;BACKGROUND&lt;/p&gt;
 &lt;p&gt;On April 29, Thomas Insel, Director of NIMH, published a paper called &lt;i&gt;Transforming Diagnosis&lt;/i&gt;.  You can see it &lt;a href=&#34;http://psychrights.org/2013/130429NIMHTransformingDiagnosis.htm&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Dr. Insel is critical of DSM:&lt;/p&gt;
@@ -172,18 +172,18 @@ This has created quite a stir, in that it appears to support the position of tho
     </item>
     <item>
       <title>Social Effect of DSM</title>
-      <link>https://behaviorismandmentalhealth.com/posts/social-effect-of-dsm/</link>
+      <link>http://localhost:1313/posts/social-effect-of-dsm/</link>
       <pubDate>Sun, 05 May 2013 12:41:23 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/social-effect-of-dsm/</guid>
+      <guid>http://localhost:1313/posts/social-effect-of-dsm/</guid>
       <description>&lt;p&gt;I keep two dictionaries on my desk.  The first is a 1964 Webster&amp;rsquo;s; the second is a 2009 Webster&amp;rsquo;s.  This morning I looked up the word &amp;ldquo;depression&amp;rdquo; in both books.&lt;/p&gt;
 &lt;p&gt;1964:&lt;/p&gt;
 &lt;p style=&#34;padding-left: 30px;&#34;&gt;n. &lt;b&gt;1.&lt;/b&gt; a depressing or being depressed.  &lt;b&gt;2.&lt;/b&gt; a depressed part or place; hollow or low place.  &lt;b&gt;3.&lt;/b&gt; low spirits; dejection.  &lt;b&gt;4.&lt;/b&gt; a decrease in force, activity, amount, etc.  &lt;b&gt;5.&lt;/b&gt; a period marked by slackening of business activity, much unemployment, falling prices and wages, etc.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Internet Addiction: A Bad Habit, Not An Illness</title>
-      <link>https://behaviorismandmentalhealth.com/posts/internet-addiction-a-bad-habit-not-an-illness/</link>
+      <link>http://localhost:1313/posts/internet-addiction-a-bad-habit-not-an-illness/</link>
       <pubDate>Tue, 23 Apr 2013 17:54:02 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/internet-addiction-a-bad-habit-not-an-illness/</guid>
+      <guid>http://localhost:1313/posts/internet-addiction-a-bad-habit-not-an-illness/</guid>
       <description>&lt;p&gt;The DSM-5 drafting committee considered including Internet addiction in the upcoming revision, but eventually backed off, at least for now.  Apparently they decided to put it in the category &amp;ldquo;requiring further study.&amp;rdquo;  So it&amp;rsquo;ll be in DSM-6.&lt;/p&gt;
 &lt;p&gt;Meanwhile, people are being given the &amp;ldquo;diagnosis&amp;rdquo; anyway – and of course, the &amp;ldquo;treatment.&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;AN ILLUSTRATIVE CASE&lt;/p&gt;
@@ -191,18 +191,18 @@ This has created quite a stir, in that it appears to support the position of tho
     </item>
     <item>
       <title>The Bereavement Exclusion and DSM-5</title>
-      <link>https://behaviorismandmentalhealth.com/posts/the-bereavement-exclusion-and-dsm-5/</link>
+      <link>http://localhost:1313/posts/the-bereavement-exclusion-and-dsm-5/</link>
       <pubDate>Tue, 16 Apr 2013 14:09:56 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/the-bereavement-exclusion-and-dsm-5/</guid>
+      <guid>http://localhost:1313/posts/the-bereavement-exclusion-and-dsm-5/</guid>
       <description>&lt;p&gt;In DSM-IV, a &amp;ldquo;diagnosis&amp;rdquo; of major depressive &lt;i&gt;disorder&lt;/i&gt; is based on the presence of a major depressive &lt;i&gt;episode&lt;/i&gt;.&lt;/p&gt;
 &lt;p&gt;A major depressive &lt;i&gt;episode&lt;/i&gt;, in turn, is defined by the presence of five or more items from the following list during a two-week period:&lt;/p&gt;
 &lt;p style=&#34;padding-left: 30px;&#34;&gt;(1) depressed mood most of the day, nearly every day, as indicated by either subjective report (e.g., feels sad or empty) or observation made by others (e.g., appears tearful). Note&lt;b&gt;:&lt;/b&gt; In children and adolescents, can be irritable mood.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Defining Mental Illness</title>
-      <link>https://behaviorismandmentalhealth.com/posts/defining-mental-illness/</link>
+      <link>http://localhost:1313/posts/defining-mental-illness/</link>
       <pubDate>Wed, 03 Apr 2013 12:54:56 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/defining-mental-illness/</guid>
+      <guid>http://localhost:1313/posts/defining-mental-illness/</guid>
       <description>&lt;p&gt;There&amp;rsquo;s a take-no-prisoners article by Paula Caplan on Psychology Today.  You can see Paula&amp;rsquo;s article &lt;a href=&#34;http://www.psychologytoday.com/blog/science-isnt-golden/201303/how-the-ny-times-portrays-psychiatric-diagnosis&#34;&gt;here&lt;/a&gt;.  (Thanks to @yobluemama2 on Twitter for the link.)&lt;/p&gt;
 &lt;p&gt;Here are some quotes:&lt;/p&gt;
 &lt;p style=&#34;padding-left: 30px;&#34;&gt;&#34;…the now well-established facts that psychiatric diagnosis is unscientific, does not reduce human suffering, and causes many kinds of serious harm.&#34;&lt;/p&gt;
@@ -210,26 +210,26 @@ This has created quite a stir, in that it appears to support the position of tho
     </item>
     <item>
       <title>Freudian Psychoanalysis is Better than Drugs</title>
-      <link>https://behaviorismandmentalhealth.com/posts/freudian-psychoanalysis-is-better-than-drugs/</link>
+      <link>http://localhost:1313/posts/freudian-psychoanalysis-is-better-than-drugs/</link>
       <pubDate>Wed, 03 Apr 2013 10:10:33 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/freudian-psychoanalysis-is-better-than-drugs/</guid>
+      <guid>http://localhost:1313/posts/freudian-psychoanalysis-is-better-than-drugs/</guid>
       <description>&lt;p&gt;Today I received a short comment from Ruth Elliot on my post&lt;a href=&#34;https://www.behaviorismandmentalhealth.com/2013/03/26/psychiatric-diagnoses-for-children/#.UVt4fZOG0eU&#34;&gt; &lt;i&gt;Psychiatric &amp;ldquo;Diagnoses&amp;rdquo; for Children&lt;/i&gt;&lt;/a&gt;.  Ruth linked to an &lt;a href=&#34;http://claudiamgoldmd.blogspot.com/2013/01/towards-new-or-return-to-old-paradigm.html#comment-form&#34;&gt;article by Claudia Gold, MD&lt;/a&gt;.  Claudia is a Freudian psychoanalyst.&lt;/p&gt;
 &lt;p&gt;My ideological orientation is behavioral, and if you were to ask people in this business:  what is the opposite of a behaviorist? you would probably get the answer:  a Freudian psychoanalyst.  And vice versa.  They are two very different ways of conceptualizing human activity.&lt;/p&gt;</description>
     </item>
     <item>
       <title>DSM-5 Inter-Rater Reliability is Low</title>
-      <link>https://behaviorismandmentalhealth.com/posts/dsm-5-inter-rater-reliability-is-low/</link>
+      <link>http://localhost:1313/posts/dsm-5-inter-rater-reliability-is-low/</link>
       <pubDate>Sat, 30 Mar 2013 15:04:44 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/dsm-5-inter-rater-reliability-is-low/</guid>
+      <guid>http://localhost:1313/posts/dsm-5-inter-rater-reliability-is-low/</guid>
       <description>&lt;p&gt;BACKGROUND&lt;/p&gt;
 &lt;p&gt;There&amp;rsquo;s an &lt;a href=&#34;http://www.madinamerica.com/2013/03/the-dsm-5-field-trials-inter-rater-reliability-ratings-take-a-nose-dive/&#34;&gt;article by Jack Carney&lt;/a&gt;, DSW, on this topic on Mad in America.  Jack refers to the DSM-5 field trials published earlier this year in the American Journal of Psychiatry.&lt;/p&gt;
 &lt;p&gt;Inter-rater reliability is measured by a statistic called a kappa score.  A score of 1 means perfect inter-rater agreement; a score of 0 indicates zero agreement.  In psychosocial research a kappa score of 0.7 or above is generally considered good.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Psychiatric &#34;Diagnoses&#34; for Children</title>
-      <link>https://behaviorismandmentalhealth.com/posts/psychiatric-diagnoses-for-children/</link>
+      <link>http://localhost:1313/posts/psychiatric-diagnoses-for-children/</link>
       <pubDate>Tue, 26 Mar 2013 14:40:49 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/psychiatric-diagnoses-for-children/</guid>
+      <guid>http://localhost:1313/posts/psychiatric-diagnoses-for-children/</guid>
       <description>&lt;p&gt;Today, courtesy of &lt;a href=&#34;https://twitter.com/BeyondMeds&#34;&gt;Monica&lt;/a&gt;, I came across an article by Marilyn Wedge, PhD.  It&amp;rsquo;s called &lt;i&gt;Six Problems with Psychiatric Diagnosis for Children. &lt;/i&gt;  You can read it &lt;a href=&#34;http://beyondmeds.com/2012/10/08/psych-dx-for-children/&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Here are some quotes:&lt;/p&gt;
 &lt;p style=&#34;padding-left: 30px;&#34;&gt;&#34;Psychiatric diagnoses contained in the Diagnostic and Statistical Manual of Mental Disorders are not classified by causes like genuine medical diseases.&#34;&lt;/p&gt;
@@ -237,32 +237,32 @@ This has created quite a stir, in that it appears to support the position of tho
     </item>
     <item>
       <title>Petition on Psychiatric &#34;Diagnoses&#34;</title>
-      <link>https://behaviorismandmentalhealth.com/posts/petition-on-psychiatric-diagnoses/</link>
+      <link>http://localhost:1313/posts/petition-on-psychiatric-diagnoses/</link>
       <pubDate>Tue, 26 Mar 2013 10:44:03 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/petition-on-psychiatric-diagnoses/</guid>
+      <guid>http://localhost:1313/posts/petition-on-psychiatric-diagnoses/</guid>
       <description>&lt;p&gt;There&amp;rsquo;s an interesting new article by Paula Caplan &lt;a href=&#34;http://www.psychologytoday.com/blog/science-isnt-golden/201303/comedy-history-and-the-future-mental-disorder-labels&#34;&gt;here&lt;/a&gt;.  It discusses the harmful effects of psychiatric &amp;ldquo;diagnoses,&amp;rdquo; including the fact that because of these labels, people have lost their &amp;ldquo;… jobs, custody of children, health insurance, and the right to make decisions about their medical and legal affairs.&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;Paula also mentions a petition she created in December 2011 calling for &amp;ldquo;&lt;strong&gt;Congressional Hearings about Psychiatric Diagnosis&lt;/strong&gt;.&amp;rdquo;  The petition is still up. You can find it&lt;a href=&#34;http://www.change.org/petitions/everyone-who-cares-about-the-harm-done-by-psychiatric-diagnosis-endorse-the-call-for-congressional-hearings-about-psychiatric-diagnosis&#34;&gt; here&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Muddled Thinking and Psychiatric &#34;Diagnoses&#34;</title>
-      <link>https://behaviorismandmentalhealth.com/posts/muddled-thinking-and-psychiatric-diagnoses/</link>
+      <link>http://localhost:1313/posts/muddled-thinking-and-psychiatric-diagnoses/</link>
       <pubDate>Sat, 23 Feb 2013 13:14:55 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/muddled-thinking-and-psychiatric-diagnoses/</guid>
+      <guid>http://localhost:1313/posts/muddled-thinking-and-psychiatric-diagnoses/</guid>
       <description>&lt;p&gt;Until just a few years ago, the spurious nature of mental illness received little or no attention either in professional circles or in the general media. There were a few of us &amp;ldquo;cranks&amp;rdquo; who poked away at the issue, but peer condemnation was usually swift and outspoken.  On one occasion I was called an &amp;ldquo;anti-science Nazi&amp;rdquo; for daring to suggest that the condition known as ADHD might have more to do with ineffective parental discipline than with brain chemistry.  We were voices in the wilderness.&lt;/p&gt;</description>
     </item>
     <item>
       <title>More Thoughts on Dr. Novella&#39;s Articles</title>
-      <link>https://behaviorismandmentalhealth.com/posts/more-thoughts-on-dr-novella-s-articles/</link>
+      <link>http://localhost:1313/posts/more-thoughts-on-dr-novella-s-articles/</link>
       <pubDate>Fri, 22 Feb 2013 09:55:34 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/more-thoughts-on-dr-novella-s-articles/</guid>
+      <guid>http://localhost:1313/posts/more-thoughts-on-dr-novella-s-articles/</guid>
       <description>&lt;p&gt;This post is a continuation of my post &lt;a href=&#34;https://www.behaviorismandmentalhealth.com/2013/02/20/steven-novella-m-d-and-mental-illness-denial/#.USd7W6WG0eU&#34;&gt;Steven Novella M.D. and Mental Illness Denial&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;In &lt;a href=&#34;http://theness.com/neurologicablog/index.php/mental-illness-denial-part-i/&#34;&gt;Mental Illness Denial Part I&lt;/a&gt;, Dr. Novella makes the point that various parts of the brain enable us to do certain things, and that if we are doing these things dysfunctionally, or not well, or perhaps not at all, then clearly there is something wrong with that part of the brain.  The example he gives is the activity of paying attention – but I think this is provided as an example, and that Dr. Novella intended his comments to apply to the full range of problems embraced by the DSM.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Psychiatric “Diagnoses” vs Real Diagnoses</title>
-      <link>https://behaviorismandmentalhealth.com/posts/psychiatric-diagnoses-vs-real-diagnoses/</link>
+      <link>http://localhost:1313/posts/psychiatric-diagnoses-vs-real-diagnoses/</link>
       <pubDate>Tue, 11 Dec 2012 16:25:48 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/psychiatric-diagnoses-vs-real-diagnoses/</guid>
+      <guid>http://localhost:1313/posts/psychiatric-diagnoses-vs-real-diagnoses/</guid>
       <description>&lt;p&gt;Robert Whitaker’s website, &lt;a href=&#34;http://www.madinamerica.com/&#34;&gt;Mad in America&lt;/a&gt;, is abuzz lately with articles challenging the medical model that underlies DSM and psychiatric “treatment” in general.&lt;/p&gt;
 &lt;p&gt;Recently there was an article by Alice Keys, MD, called “&lt;em&gt;&lt;a href=&#34;http://www.madinamerica.com/2012/12/do-diagnoses-injure-people/&#34;&gt;Do Diagnoses Injure People&lt;/a&gt;?”&lt;/em&gt;  Of course I believe emphatically that they do, and I read the article.&lt;/p&gt;
 &lt;p&gt;Much of the content is valuable, and I encourage readers to take a look.&lt;/p&gt;
@@ -270,18 +270,18 @@ This has created quite a stir, in that it appears to support the position of tho
     </item>
     <item>
       <title>More Cracks in the Sandcastle: Anti-DSM Sentiment</title>
-      <link>https://behaviorismandmentalhealth.com/posts/more-cracks-in-the-sandcastle-anti-dsm-sentiment/</link>
+      <link>http://localhost:1313/posts/more-cracks-in-the-sandcastle-anti-dsm-sentiment/</link>
       <pubDate>Wed, 31 Oct 2012 14:29:23 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/more-cracks-in-the-sandcastle-anti-dsm-sentiment/</guid>
+      <guid>http://localhost:1313/posts/more-cracks-in-the-sandcastle-anti-dsm-sentiment/</guid>
       <description>&lt;p&gt;Christopher Lane recently wrote an article called &lt;a href=&#34;http://www.psychologytoday.com/blog/side-effects/201209/anti-dsm-sentiment-rises-in-france&#34;&gt;Anti-DSM Sentiment Rises in France&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Here are some quotes:&lt;/p&gt;
 &lt;p style=&#34;padding-left: 30px;&#34;&gt; “Anger and concern about the growing influence of the &lt;em&gt;DSM&lt;/em&gt;&lt;em&gt; &lt;/em&gt;in France, as well as over a number of related, prominent pharmaceutical scandals here, has culminated in the creation of &lt;em&gt;Stop&lt;/em&gt; &lt;em&gt;DSM,&lt;/em&gt; a professional and political group that is strongly opposed to the manual’s diagnostic power and what it sees as its negative social consequences.”&lt;/p&gt;</description>
     </item>
     <item>
       <title>Article by Bruce Thyer PhD</title>
-      <link>https://behaviorismandmentalhealth.com/posts/article-by-bruce-thyer-phd/</link>
+      <link>http://localhost:1313/posts/article-by-bruce-thyer-phd/</link>
       <pubDate>Fri, 06 Jul 2012 08:16:29 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/article-by-bruce-thyer-phd/</guid>
+      <guid>http://localhost:1313/posts/article-by-bruce-thyer-phd/</guid>
       <description>&lt;p&gt;I came across an interesting article the other day.&lt;/p&gt;
 &lt;p style=&#34;padding-left: 30px;&#34;&gt;&lt;em&gt;It Is Time to Rename the DSM, &lt;/em&gt;by Bruce A. Thyer, PhD, Florida State University, Ethical Human Psychology and Psychiatry, Vol 8, No. 1, Spring 2006&lt;/p&gt;
 Dr. Thyer points out that although the DSM claims to be atheoretical, its contention that the various “mental illnesses” reside &lt;em&gt;within the individual&lt;/em&gt;, as opposed, for instance, to being understandable reactions to adverse life events, is in itself a theoretical stance.
@@ -289,47 +289,47 @@ Dr. Thyer points out that although the DSM claims to be atheoretical, its conten
     </item>
     <item>
       <title>What&#39;s New?  APA Threats, Xanax, Etc.</title>
-      <link>https://behaviorismandmentalhealth.com/posts/what-s-new-apa-threats-xanax-etc/</link>
+      <link>http://localhost:1313/posts/what-s-new-apa-threats-xanax-etc/</link>
       <pubDate>Mon, 23 Jan 2012 11:29:28 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/what-s-new-apa-threats-xanax-etc/</guid>
+      <guid>http://localhost:1313/posts/what-s-new-apa-threats-xanax-etc/</guid>
       <description>&lt;p&gt;Daniel Carlat’s &lt;a href=&#34;http://carlatpsychiatry.blogspot.com/&#34;&gt;blog&lt;/a&gt; carries an &lt;a href=&#34;http://carlatpsychiatry.blogspot.com/2012/01/apa-threatens-to-sue-dsm5watch-website.html&#34;&gt;interesting item&lt;/a&gt;.  It seems that a lady named Suzy Chapman started a site called dsm5watch, in which she expressed criticism of the DSM.  Well, the APA didn’t like this and sent her a cease and desist letter, claiming that the string “DSM-5” is trademarked, and that she was infringing their rights.  She complied, changing the name of her site to &lt;a href=&#34;http://dxrevisionwatch.wordpress.com/&#34;&gt;dxrevisionwatch&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;What I find interesting here is that the APA claim to be interested in public comment.  I guess as long as it doesn’t get too critical.&lt;/p&gt;</description>
     </item>
     <item>
       <title>DSM and Disability</title>
-      <link>https://behaviorismandmentalhealth.com/posts/dsm-and-disability/</link>
+      <link>http://localhost:1313/posts/dsm-and-disability/</link>
       <pubDate>Sun, 12 Dec 2010 18:47:02 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/dsm-and-disability/</guid>
+      <guid>http://localhost:1313/posts/dsm-and-disability/</guid>
       <description>&lt;p&gt;Every society in every generation makes errors.  Some of the errors are minor.  Some are major.  One of the great errors of the 20&lt;sup&gt;th&lt;/sup&gt; century was this:  we accepted the spurious notion that a wide range of life’s problems were in fact &lt;em&gt;illnesses&lt;/em&gt;.  This spurious notion was initiated with good intentions – to provide shelter and humanitarian care for a relatively small number of individuals whose plight was truly dreadful.  But then the concept of mental illness took off, fuelled largely by the efforts of psychiatrists to legitimize their status as “real” doctors.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sexual Disorders Are Not Illnesses</title>
-      <link>https://behaviorismandmentalhealth.com/posts/sexual-disorders-are-not-illnesses/</link>
+      <link>http://localhost:1313/posts/sexual-disorders-are-not-illnesses/</link>
       <pubDate>Mon, 28 Jun 2010 12:59:39 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/sexual-disorders-are-not-illnesses/</guid>
+      <guid>http://localhost:1313/posts/sexual-disorders-are-not-illnesses/</guid>
       <description>&lt;p&gt;The central theme of this blog is that almost all the so-called mental illnesses listed in the APA’s Diagnostic and Statistical Manual are nothing more than the ordinary everyday challenges of human existence.  The psychiatric profession has “elevated” these problems to the status of disorders and illnesses to justify and legitimize their involvement in these areas, and in particular to justify the use of drugs to alter people’s moods and actions.  Psychiatry – once a respectable helping profession – has degenerated into something little better than drug pushing.  The real winners, of course, are the pharmaceutical companies, who use the psychiatrists and other mental health professionals to promote the widespread drugging of the population.  The DSM’s so-called sexual disorders represent a particularly blatant example of psychiatric invention.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Personality Disorders Are Not Illnesses</title>
-      <link>https://behaviorismandmentalhealth.com/posts/personality-disorders-are-not-illnesses/</link>
+      <link>http://localhost:1313/posts/personality-disorders-are-not-illnesses/</link>
       <pubDate>Wed, 05 May 2010 15:42:55 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/personality-disorders-are-not-illnesses/</guid>
+      <guid>http://localhost:1313/posts/personality-disorders-are-not-illnesses/</guid>
       <description>&lt;p&gt;The central theme of this blog is that there are no mental illnesses.  The concept of mental illness is a spurious invention of psychiatrists and other mental health professionals for the purpose of medicalizing normal human problems and selling drugs.&lt;/p&gt;
 &lt;p&gt;The central tenet of the mental health system is that unusual, bizarre, and disturbing behaviors are caused by mental disorders (or illnesses).  But their definition of a mental disorder is: a serious behavioral problem.  So problem behavior is caused by problem behavior.  This is the facile logic behind the widespread peddling of drugs in which psychiatry and the mental health system engage.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The So-Called Mental Illnesses Are Not Illnesses</title>
-      <link>https://behaviorismandmentalhealth.com/posts/the-so-called-mental-illnesses-are-not-illnesses/</link>
+      <link>http://localhost:1313/posts/the-so-called-mental-illnesses-are-not-illnesses/</link>
       <pubDate>Thu, 15 Apr 2010 19:03:45 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/the-so-called-mental-illnesses-are-not-illnesses/</guid>
+      <guid>http://localhost:1313/posts/the-so-called-mental-illnesses-are-not-illnesses/</guid>
       <description>&lt;p&gt;The central theme of this blog is that mental illness is a spurious and invalid concept, which is promoted and developed by the American Psychiatric Association to legitimize the use of mood-altering drugs.&lt;/p&gt;
 &lt;p&gt;It is certainly true that people display various problems in their daily lives and particularly in their interpersonal relationships.  The American Psychiatric Association claims that all such problems are caused by mental illness and their list of these so-called illnesses is so long that virtually anybody can be embraced within their coils.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Conduct Disorder and Oppositional Defiant Disorder</title>
-      <link>https://behaviorismandmentalhealth.com/posts/conduct-disorder-and-oppositional-defiant-disorder/</link>
+      <link>http://localhost:1313/posts/conduct-disorder-and-oppositional-defiant-disorder/</link>
       <pubDate>Fri, 17 Apr 2009 14:12:57 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/conduct-disorder-and-oppositional-defiant-disorder/</guid>
+      <guid>http://localhost:1313/posts/conduct-disorder-and-oppositional-defiant-disorder/</guid>
       <description>&lt;p&gt;&lt;strong&gt;CONDUCT DISORDER
 &lt;/strong&gt;
 The essential feature of Conduct Disorder, according to the APA, is a “repetitive and persistent pattern” of rule breaking or activity which violates other people’s basic rights.  The manual identifies four broad categories of behavior under this heading:  aggression; destruction of property; theft or deceitfulness; and serious violation of rules.&lt;/p&gt;
@@ -337,9 +337,9 @@ The essential feature of Conduct Disorder, according to the APA, is a “repetit
     </item>
     <item>
       <title>How Can They Just Invent Illnesses?</title>
-      <link>https://behaviorismandmentalhealth.com/posts/how-can-they-just-invent-illnesses/</link>
+      <link>http://localhost:1313/posts/how-can-they-just-invent-illnesses/</link>
       <pubDate>Wed, 25 Mar 2009 12:09:48 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/how-can-they-just-invent-illnesses/</guid>
+      <guid>http://localhost:1313/posts/how-can-they-just-invent-illnesses/</guid>
       <description>&lt;p&gt;The notion of a professional group such as the APA sitting in their councils and committees inventing illnesses for themselves to treat seems so preposterous that a measure of disbelief on the part of the reader is understandable.  In its historical context, however, the development is not so surprising.  The original 1952 DSM was very simple and unpretentious, and whilst part of the APA’s motivation in drafting the document was undoubtedly to draw some credibility and respectability to their profession, there is at the same time nothing to suggest any great drive at that time towards aggrandizement or service expansion.  However, having agreed in 1952 that neurosis was a form of mental disorder, it was inevitable that subsequent revisions of the manual would attempt to define this feature further and look for subdivisions of the general category.  This, of course, is exactly what has happened, and the current version of DSM lists literally dozens of disorders of this sort, although the general term neurosis is no longer used.  (For an interesting discussion of this matter, see Karen Franklin’s post at &lt;a href=&#34;http://forensicpsychologist.blogspot.com/2008/10/dsm-makeover-what-will-they-come-up.html&#34;&gt;In The News&lt;/a&gt;.)&lt;/p&gt;</description>
     </item>
   </channel>

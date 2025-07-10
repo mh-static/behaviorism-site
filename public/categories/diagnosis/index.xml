@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Diagnosis on Behaviorism and Mental Health</title>
-    <link>https://behaviorismandmentalhealth.com/categories/diagnosis/</link>
+    <link>http://localhost:1313/categories/diagnosis/</link>
     <description>Recent content in Diagnosis on Behaviorism and Mental Health</description>
     <generator>Hugo -- 0.146.0</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 11 Dec 2012 16:25:48 +0000</lastBuildDate>
-    <atom:link href="https://behaviorismandmentalhealth.com/categories/diagnosis/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/diagnosis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Psychiatric “Diagnoses” vs Real Diagnoses</title>
-      <link>https://behaviorismandmentalhealth.com/posts/psychiatric-diagnoses-vs-real-diagnoses/</link>
+      <link>http://localhost:1313/posts/psychiatric-diagnoses-vs-real-diagnoses/</link>
       <pubDate>Tue, 11 Dec 2012 16:25:48 +0000</pubDate>
-      <guid>https://behaviorismandmentalhealth.com/posts/psychiatric-diagnoses-vs-real-diagnoses/</guid>
+      <guid>http://localhost:1313/posts/psychiatric-diagnoses-vs-real-diagnoses/</guid>
       <description>&lt;p&gt;Robert Whitaker’s website, &lt;a href=&#34;http://www.madinamerica.com/&#34;&gt;Mad in America&lt;/a&gt;, is abuzz lately with articles challenging the medical model that underlies DSM and psychiatric “treatment” in general.&lt;/p&gt;
 &lt;p&gt;Recently there was an article by Alice Keys, MD, called “&lt;em&gt;&lt;a href=&#34;http://www.madinamerica.com/2012/12/do-diagnoses-injure-people/&#34;&gt;Do Diagnoses Injure People&lt;/a&gt;?”&lt;/em&gt;  Of course I believe emphatically that they do, and I read the article.&lt;/p&gt;
 &lt;p&gt;Much of the content is valuable, and I encourage readers to take a look.&lt;/p&gt;
