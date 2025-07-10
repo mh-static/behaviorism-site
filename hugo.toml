@@ -1,4 +1,4 @@
-baseURL = "https://www.behaviorismandmentalhealth.com/"
+baseURL = "https://behaviorismandmentalhealth.com/"
 relativeURLs = true
 canonifyURLs = false
 languageCode = 'en-us'
